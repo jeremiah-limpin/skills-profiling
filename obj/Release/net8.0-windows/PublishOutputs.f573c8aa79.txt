@@ -1,0 +1,15 @@
+C:\Users\Neil Lucero\Desktop\New folder\Skills Profiling.exe
+C:\Users\Neil Lucero\Desktop\New folder\Skills Profiling.dll
+C:\Users\Neil Lucero\Desktop\New folder\Skills Profiling.deps.json
+C:\Users\Neil Lucero\Desktop\New folder\Skills Profiling.runtimeconfig.json
+C:\Users\Neil Lucero\Desktop\New folder\Skills Profiling.pdb
+C:\Users\Neil Lucero\Desktop\New folder\ExcelDataReader.dll
+C:\Users\Neil Lucero\Desktop\New folder\ExcelDataReader.DataSet.dll
+C:\Users\Neil Lucero\Desktop\New folder\System.Configuration.ConfigurationManager.dll
+C:\Users\Neil Lucero\Desktop\New folder\System.Data.OleDb.dll
+C:\Users\Neil Lucero\Desktop\New folder\System.Diagnostics.EventLog.dll
+C:\Users\Neil Lucero\Desktop\New folder\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Neil Lucero\Desktop\New folder\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neil Lucero\Desktop\New folder\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Neil Lucero\Desktop\New folder\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Neil Lucero\Desktop\New folder\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll

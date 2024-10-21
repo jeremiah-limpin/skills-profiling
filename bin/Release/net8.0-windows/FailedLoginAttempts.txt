@@ -1,0 +1,12 @@
+Date: 18/07/2024 12:34:35 pm
+Machine Name: LAPTOP-140
+Username: Neil Lucero
+Employee ID: 232
+Action: Maximum login attempts reached, permission revoked.
+-----------------------------------------------------
+Date: 18/07/2024 12:34:50 pm
+Machine Name: LAPTOP-140
+Username: Neil Lucero
+Employee ID: 232
+Action: Maximum login attempts reached, permission revoked.
+-----------------------------------------------------

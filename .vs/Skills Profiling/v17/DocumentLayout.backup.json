@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\LoginF.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\LoginF.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeF.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeF.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeListF.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeListF.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeListF.Designer.vb",
+              "DocumentMoniker": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeListF.Designer.vb",
+              "RelativeDocumentMoniker": "EmployeeListF.Designer.vb",
+              "ToolTip": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeListF.Designer.vb",
+              "RelativeToolTip": "EmployeeListF.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T02:39:41.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeListF.vb",
+              "DocumentMoniker": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeListF.vb",
+              "RelativeDocumentMoniker": "EmployeeListF.vb",
+              "ToolTip": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeListF.vb",
+              "RelativeToolTip": "EmployeeListF.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T02:35:39.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginF.Designer.vb",
+              "DocumentMoniker": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\LoginF.Designer.vb",
+              "RelativeDocumentMoniker": "LoginF.Designer.vb",
+              "ToolTip": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\LoginF.Designer.vb",
+              "RelativeToolTip": "LoginF.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T02:26:10.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginF.vb",
+              "DocumentMoniker": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\LoginF.vb",
+              "RelativeDocumentMoniker": "LoginF.vb",
+              "ToolTip": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\LoginF.vb",
+              "RelativeToolTip": "LoginF.vb",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T02:11:37.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeF.vb",
+              "DocumentMoniker": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeF.vb",
+              "RelativeDocumentMoniker": "EmployeeF.vb",
+              "ToolTip": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeF.vb",
+              "RelativeToolTip": "EmployeeF.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T01:08:45.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeF.Designer.vb",
+              "DocumentMoniker": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeF.Designer.vb",
+              "RelativeDocumentMoniker": "EmployeeF.Designer.vb",
+              "ToolTip": "\\\\Backroom_NAS\\SkillsProfiling\\Source Code\\Skills Profiling\\Skills Profiling\\EmployeeF.Designer.vb",
+              "RelativeToolTip": "EmployeeF.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T01:02:55.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

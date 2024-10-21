@@ -1,0 +1,15 @@
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\Skills Profiling.exe
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\Skills Profiling.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\Skills Profiling.deps.json
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\Skills Profiling.runtimeconfig.json
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\Skills Profiling.pdb
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\ExcelDataReader.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\ExcelDataReader.DataSet.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\System.Data.OleDb.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\System.Diagnostics.EventLog.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Neil Lucero\Desktop\New folder\Profiling System 12.07.2024 Build 1.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll

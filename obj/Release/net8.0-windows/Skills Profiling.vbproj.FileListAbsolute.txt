@@ -1,0 +1,665 @@
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Eleazar Villareal\source\repos\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+\\Backroom_NAS\SkillsProfiling\SPAD July 22, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+\\Backroom_NAS\SkillsProfiling\SPAD September 6, 2024\Source Code\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-19-24 (COPY)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+\\Backroom_NAS\SkillsProfiling\Skills Profiling 9-20-24 (LATEST 12pm)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreICabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-20-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.FogotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-25-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.FogotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 9-27-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.FogotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-01-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.FogotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-02-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.FogotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-03-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ForgotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\itextsharp.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-07-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\itextsharp.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ForgotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-08-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\itextsharp.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ForgotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-09-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\itextsharp.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ForgotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-10-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\itextsharp.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ForgotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\ROLES TEST\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\itextsharp.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ForgotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-15-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.exe
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.deps.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.runtimeconfig.json
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\itextsharp.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.AssemblyReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.ADODB.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.ResolveComReference.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.AddEmployee.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Attempt.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ChangePasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ClientF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.EmployeeListF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.ForgotPasswordForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.LoginF.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.Resources.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills_Profiling.VerifyIDForm.resources
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.GenerateResource.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfoInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.AssemblyInfo.vb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.vbproj.CoreCompileInputs.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills P.30127961.Up2Date
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\refint\Skills Profiling.dll
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.pdb
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\Skills Profiling.genruntimeconfig.cache
+C:\Users\VinceAndreiCabral\OneDrive - The Back Room Offshoring Inc\Desktop\Skills Profiling 10-18-24 (LATEST Copy)\Skills Profiling\obj\Release\net8.0-windows\ref\Skills Profiling.dll

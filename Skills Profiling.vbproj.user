@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Neil Lucero\Desktop\PROFILING BACKUP DEVELOPMENT FILES\Source Code\Skills Profiling\Skills Profiling\My Project\PublishProfiles\FolderProfile3.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attempt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePasswordForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeListF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPasswordForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VerifyID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
