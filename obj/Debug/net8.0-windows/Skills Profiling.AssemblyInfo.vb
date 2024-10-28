@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Skills Profiling"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d394929061e356e0981f912dd2a7ed806e94115"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Skills Profiling"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Skills Profiling"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

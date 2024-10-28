@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Backroom_NAS\\SkillsProfiling\\Skills Profiling 10-22-24\\Skills Profiling.vbproj": {}
+    "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj": {}
   },
   "projects": {
-    "\\\\Backroom_NAS\\SkillsProfiling\\Skills Profiling 10-22-24\\Skills Profiling.vbproj": {
+    "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Backroom_NAS\\SkillsProfiling\\Skills Profiling 10-22-24\\Skills Profiling.vbproj",
+        "projectUniqueName": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj",
         "projectName": "Skills Profiling",
-        "projectPath": "\\\\Backroom_NAS\\SkillsProfiling\\Skills Profiling 10-22-24\\Skills Profiling.vbproj",
+        "projectPath": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj",
         "packagesPath": "C:\\Users\\VinceAndreiCabral\\.nuget\\packages\\",
-        "outputPath": "\\\\Backroom_NAS\\SkillsProfiling\\Skills Profiling 10-22-24\\obj\\",
+        "outputPath": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VinceAndreiCabral\\AppData\\Roaming\\NuGet\\NuGet.Config",
