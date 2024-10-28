@@ -1,9 +1,0 @@
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\Skills Profiling.exe
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\Skills Profiling.dll
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\Skills Profiling.deps.json
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\Skills Profiling.runtimeconfig.json
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\Skills Profiling.pdb
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\ExcelDataReader.dll
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\ExcelDataReader.DataSet.dll
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\System.Data.OleDb.dll
-C:\Users\Neil Lucero\Desktop\Profiling System 18.07.2024 Build 1\runtimes\win\lib\net8.0\System.Data.OleDb.dll
