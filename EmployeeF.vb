@@ -1301,6 +1301,7 @@ Public Class EmployeeF
     End Sub
     Private Sub btnSaveChangesEP_Click(sender As Object, e As EventArgs) Handles btnSaveEP.Click
         employeeProfile.UpdateDetailsInDatabase(EmployeeProfileDataGrid, txtFname, txtLname, txtLastUpdate, chkbxIsActive, txtSharepointLink, Me)
+        ApplyEmployeeProfileFormatting()
     End Sub
 
 #End Region
@@ -1314,13 +1315,16 @@ Public Class EmployeeF
     End Sub
     Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSaveChanges.Click
         jobHistory.UpdateDetailsInDatabase(JobHistoryDataGrid, txtRoleDesignation, txtClientName, txtRegion, txtStartDateJ, txtEndDateJ, txtReasonForChange, Me)
+        ApplyJobHistoryFormatting()
     End Sub
     Private Sub btnAdd_Click(sender As Object, e As EventArgs) Handles btnAdd.Click
         jobHistory.AddDetailsToDatabase(JobHistoryDataGrid, txtEmployeeNumber, txtRoleDesignation, txtClientName, txtRegion, txtStartDateJ, txtEndDateJ, txtReasonForChange, Me)
+        ApplyJobHistoryFormatting()
     End Sub
 
     Private Sub btnDelete_Click(sender As Object, e As EventArgs) Handles btnDelete.Click
         jobHistory.DeleteDetailsFromDatabase(JobHistoryDataGrid, Me)
+        ApplyJobHistoryFormatting()
     End Sub
     Private Sub btnCancel_Click(sender As Object, e As EventArgs) Handles btnCancel.Click
         jobHistory.HideButtons()
@@ -1405,14 +1409,17 @@ Public Class EmployeeF
 
     Private Sub btnAddTP_Click(sender As Object, e As EventArgs) Handles btnAddTP.Click
         taskProfile.AddDetailsToDatabase(TaskProfileDataGrid, txtEmployeeNumber, txtTaskName, txtCategory, txtPOC, txtDescription, Me)
+        ApplyTaskProfileFormatting()
     End Sub
 
     Private Sub btnSaveChangesTP_Click(sender As Object, e As EventArgs) Handles btnSaveChangesTP.Click
         taskProfile.UpdateDetailsInDatabase(TaskProfileDataGrid, txtTaskName, txtCategory, txtPOC, txtDescription, Me)
+        ApplyTaskProfileFormatting()
     End Sub
 
     Private Sub btnDeleteTP_Click(sender As Object, e As EventArgs) Handles btnDeleteTP.Click
         taskProfile.DeleteDetailsFromDatabase(TaskProfileDataGrid, Me)
+        ApplyTaskProfileFormatting()
     End Sub
 
     Private Sub btnCancelTP_Click(sender As Object, e As EventArgs) Handles btnCancelTP.Click
@@ -1443,14 +1450,17 @@ Public Class EmployeeF
 
     Private Sub btnAddST_Click(sender As Object, e As EventArgs) Handles btnAddST.Click
         softwareAndTools.AddDetailsToDatabase(SoftwareAndToolsDataGrid, txtEmployeeNumber, txtSoftwareOrTools, txtUsedFor, Me)
+        ApplySoftwareAndToolsFormatting()
     End Sub
 
     Private Sub btnSaveChangesST_Click(sender As Object, e As EventArgs) Handles btnSaveChangesST.Click
         softwareAndTools.UpdateDetailsInDatabase(SoftwareAndToolsDataGrid, txtSoftwareOrTools, txtUsedFor, Me)
+        ApplySoftwareAndToolsFormatting()
     End Sub
 
     Private Sub btnDeleteST_Click(sender As Object, e As EventArgs) Handles btnDeleteST.Click
         softwareAndTools.DeleteDetailsFromDatabase(SoftwareAndToolsDataGrid, Me)
+        ApplySoftwareAndToolsFormatting()
     End Sub
 
     Private Sub btnCancelst_Click(sender As Object, e As EventArgs) Handles btnCancelST.Click
@@ -1485,14 +1495,17 @@ Public Class EmployeeF
 
     Private Sub btnAddSI_Click(sender As Object, e As EventArgs) Handles btnAddSI.Click
         skillsInterview.AddDetailsToDatabase(SkillsInterviewDataGrid, txtEmployeeNumber, txtRoleOrDesignation, dtpckerDate, txtInterviewer, txtAssessmentNotes, Me)
+        ApplySkillsInterviewFormatting()
     End Sub
 
     Private Sub btnSaveChangesSI_Click(sender As Object, e As EventArgs) Handles btnSaveChangesSI.Click
         skillsInterview.UpdateDetailsInDatabase(SkillsInterviewDataGrid, txtRoleOrDesignation, dtpckerDate, txtInterviewer, txtAssessmentNotes, Me)
+        ApplySkillsInterviewFormatting()
     End Sub
 
     Private Sub btnDeleteSI_Click(sender As Object, e As EventArgs) Handles btnDeleteSI.Click
         skillsInterview.DeleteDetailsFromDatabase(SkillsInterviewDataGrid, Me)
+        ApplySkillsInterviewFormatting()
     End Sub
 
     Private Sub btnCancelSI_Click(sender As Object, e As EventArgs) Handles btnCancelSI.Click
@@ -1510,13 +1523,16 @@ Public Class EmployeeF
     End Sub
     Private Sub btnSaveChangesPE_Click(sender As Object, e As EventArgs) Handles btnSaveChangesPE.Click
         performanceEvaluation.UpdateDetailsInDatabase(PerformanceEvaluationDataGrid, txtEvaluationType, dtpckerEvalutionDate, txtEvaluator, txtEvaluationNotes, Me)
+        ApplyPerformnceFormatting()
     End Sub
     Private Sub btnAddPE_Click(sender As Object, e As EventArgs) Handles btnAddPE.Click
         performanceEvaluation.AddDetailsToDatabase(PerformanceEvaluationDataGrid, txtEmployeeNumber, txtEvaluationType, dtpckerEvalutionDate, txtEvaluator, txtEvaluationNotes, Me)
+        ApplyPerformnceFormatting()
     End Sub
 
     Private Sub btnDeletePE_Click(sender As Object, e As EventArgs) Handles btnDeletePE.Click
         performanceEvaluation.DeleteDetailsFromDatabase(PerformanceEvaluationDataGrid, Me)
+        ApplyPerformnceFormatting()
     End Sub
     Private Sub btnCancelPE_Click(sender As Object, e As EventArgs) Handles btnCancelPE.Click
         performanceEvaluation.HideButtons()
@@ -1570,14 +1586,17 @@ Public Class EmployeeF
 
     Private Sub btnAddT_Click(sender As Object, e As EventArgs) Handles btnAddT.Click
         skillsTriage.AddDetailsToDatabase(SkillsTriageDataGrid, txtEmployeeNumber, txtConcernBy, dtpckerStartDateT, dtpckerDateClose, txtDetailsOfConcern, txtDeliberationScore, txtDeliberationNotes, Me)
+        ApplySkillsTriageFormatting()
     End Sub
 
     Private Sub btnSaveChangesT_Click(sender As Object, e As EventArgs) Handles btnSaveChangesT.Click
         skillsTriage.UpdateDetailsInDatabase(SkillsTriageDataGrid, txtConcernBy, dtpckerStartDateT, dtpckerDateClose, txtDetailsOfConcern, txtDeliberationScore, txtDeliberationNotes, Me)
+        ApplySkillsTriageFormatting()
     End Sub
 
     Private Sub btnDeleteT_Click(sender As Object, e As EventArgs) Handles btnDeleteT.Click
         skillsTriage.DeleteDetailsFromDatabase(SkillsTriageDataGrid, Me)
+        ApplySkillsTriageFormatting()
     End Sub
 
     Private Sub btnCancelT_Click(sender As Object, e As EventArgs) Handles btnCancelT.Click
@@ -1612,14 +1631,17 @@ Public Class EmployeeF
 
     Private Sub btnAddTH_Click(sender As Object, e As EventArgs) Handles btnAddTH.Click
         trainingHistory.AddDetailsToDatabase(TrainingHistoryDataGrid, txtEmployeeNumber, txtTopicOrModuleTitle, txtFacilitator, dtpckerCompletion, txtGrade, Me)
+        ApplyTrainingHistoryFormatting()
     End Sub
 
     Private Sub btnSaveChangesTH_Click(sender As Object, e As EventArgs) Handles btnSaveChangesTH.Click
         trainingHistory.UpdateDetailsInDatabase(TrainingHistoryDataGrid, txtTopicOrModuleTitle, txtFacilitator, dtpckerCompletion, txtGrade, Me)
+        ApplyTrainingHistoryFormatting()
     End Sub
 
     Private Sub btnDeleteTH_Click(sender As Object, e As EventArgs) Handles btnDeleteTH.Click
         trainingHistory.DeleteDetailsFromDatabase(TrainingHistoryDataGrid, Me)
+        ApplyTrainingHistoryFormatting()
     End Sub
 
     Private Sub btnCancelTH_Click(sender As Object, e As EventArgs) Handles btnCancelTH.Click
@@ -1660,14 +1682,17 @@ Public Class EmployeeF
 
     Private Sub btnAddCL_Click(sender As Object, e As EventArgs) Handles btnAddCL.Click
         certificationAndLicenses.AddDetailsToDatabase(CertificationAndLicensesDataGrid, txtEmployeeNumber, txtCertificateName, txtChapter, txtProvider, txtLicenseNumber, dtpckerGrantDate, dtpckerExpiryDate, txtStatus, Me)
+        ApplyCertificationAndLicensesFormatting()
     End Sub
 
     Private Sub btnSaveChangesCL_Click(sender As Object, e As EventArgs) Handles btnSaveChangesCL.Click
         certificationAndLicenses.UpdateDetailsInDatabase(CertificationAndLicensesDataGrid, txtCertificateName, txtChapter, txtProvider, txtLicenseNumber, dtpckerGrantDate, dtpckerExpiryDate, txtStatus, Me)
+        ApplyCertificationAndLicensesFormatting()
     End Sub
 
     Private Sub btnDeleteCL_Click(sender As Object, e As EventArgs) Handles btnDeleteCL.Click
         certificationAndLicenses.DeleteDetailsFromDatabase(CertificationAndLicensesDataGrid, Me)
+        ApplyCertificationAndLicensesFormatting()
     End Sub
 
     Private Sub btnCancelCL_Click(sender As Object, e As EventArgs) Handles btnCancelCL.Click
@@ -1701,14 +1726,17 @@ Public Class EmployeeF
 
     Private Sub btnAddP_Click(sender As Object, e As EventArgs) Handles btnAddP.Click
         trainingPlan.AddDetailsToDatabase(TrainingPlanDataGrid, txtEmployeeNumber, txtTopicOrModuleName, txtFacilitatorP, txtTargetDate, Me)
+        ApplyTrainingPlanFormatting()
     End Sub
 
     Private Sub btnSaveChangesP_Click(sender As Object, e As EventArgs) Handles btnSaveChangesP.Click
         trainingPlan.UpdateDetailsInDatabase(TrainingPlanDataGrid, txtTopicOrModuleName, txtFacilitatorP, txtTargetDate, Me)
+        ApplyTrainingPlanFormatting()
     End Sub
 
     Private Sub btnDeleteP_Click(sender As Object, e As EventArgs) Handles btnDeleteP.Click
         trainingPlan.DeleteDetailsFromDatabase(TrainingPlanDataGrid, Me)
+        ApplyTrainingPlanFormatting()
     End Sub
 
     Private Sub btnCancelP_Click(sender As Object, e As EventArgs) Handles btnCancelP.Click
@@ -1747,14 +1775,17 @@ Public Class EmployeeF
 
     Private Sub btnAddTPr_Click(sender As Object, e As EventArgs) Handles btnAddTPr.Click
         trainingPrograms.AddDetailsToDatabase(TrainingProgramsDataGrid, txtEmployeeNumber, txtProgramTitle, txtStartDateTPr, txtCompletionDateTPr, txtDeliberationScoreTPr, txtDeliberationNotesTPr, Me)
+        ApplyTrainingProgramsFormatting()
     End Sub
 
     Private Sub btnSaveChangesTPr_Click(sender As Object, e As EventArgs) Handles btnSaveChangesTPr.Click
         trainingPrograms.UpdateDetailsInDatabase(TrainingProgramsDataGrid, txtProgramTitle, txtStartDateTPr, txtCompletionDateTPr, txtDeliberationScoreTPr, txtDeliberationNotesTPr, Me)
+        ApplyTrainingProgramsFormatting()
     End Sub
 
     Private Sub btnDeleteTPr_Click(sender As Object, e As EventArgs) Handles btnDeleteTPr.Click
         trainingPrograms.DeleteDetailsFromDatabase(TrainingProgramsDataGrid, Me)
+        ApplyTrainingProgramsFormatting()
     End Sub
 
     Private Sub btnCancelTPr_Click(sender As Object, e As EventArgs) Handles btnCancelTPr.Click
@@ -1788,14 +1819,17 @@ Public Class EmployeeF
 
     Private Sub btnAddW_Click(sender As Object, e As EventArgs) Handles btnAddW.Click
         webinarsAttended.AddDetailsToDatabase(WebinarsAttendedDataGrid, txtEmployeeNumber, txtWebinarTitle, txtDateW, txtCPDUnits, Me)
+        ApplyWebinarsAttendedFormatting()
     End Sub
 
     Private Sub btnSaveChangesW_Click(sender As Object, e As EventArgs) Handles btnSaveChangesW.Click
         webinarsAttended.UpdateDetailsInDatabase(WebinarsAttendedDataGrid, txtWebinarTitle, txtDateW, txtCPDUnits, Me)
+        ApplyWebinarsAttendedFormatting()
     End Sub
 
     Private Sub btnDeleteW_Click(sender As Object, e As EventArgs) Handles btnDeleteW.Click
         webinarsAttended.DeleteDetailsFromDatabase(WebinarsAttendedDataGrid, Me)
+        ApplyWebinarsAttendedFormatting()
     End Sub
 
     Private Sub btnCancelW_Click(sender As Object, e As EventArgs) Handles btnCancelW.Click
@@ -1832,14 +1866,17 @@ Public Class EmployeeF
 
     Private Sub btnAddCF_Click(sender As Object, e As EventArgs) Handles btnAddCF.Click
         clientFeedback.AddDetailsToDatabase(ClientFeedbackDataGrid, txtEmployeeNumber, txtAccountManager, txtClientPOC, txtFeedbackDate, txtFeedbackSummary, txtStaffPerformanceRating, Me)
+        ApplyClientFeedbackFormatting()
     End Sub
 
     Private Sub btnSaveChangesCF_Click(sender As Object, e As EventArgs) Handles btnSaveChangesCF.Click
         clientFeedback.UpdateDetailsInDatabase(ClientFeedbackDataGrid, txtAccountManager, txtClientPOC, txtFeedbackDate, txtFeedbackSummary, txtStaffPerformanceRating, Me)
+        ApplyClientFeedbackFormatting()
     End Sub
 
     Private Sub btnDeleteCF_Click(sender As Object, e As EventArgs) Handles btnDeleteCF.Click
         clientFeedback.DeleteDetailsFromDatabase(ClientFeedbackDataGrid, Me)
+        ApplyClientFeedbackFormatting()
     End Sub
 
     Private Sub btnCancelCF_Click(sender As Object, e As EventArgs) Handles btnCancelCF.Click
@@ -1876,14 +1913,17 @@ Public Class EmployeeF
 
     Private Sub btnAddSA_Click(sender As Object, e As EventArgs) Handles btnAddSA.Click
         selfAssessment.AddDetailsToDatabase(SelfAssessmentDataGrid, txtEmployeeNumber, txtAccountManagerSA, txtFeedbackDateSA, txtPersonalPerformanceRating, txtClientRating, txtTBRRating, Me)
+        ApplySelfAssessmentFormatting()
     End Sub
 
     Private Sub btnSaveChangesSA_Click(sender As Object, e As EventArgs) Handles btnSaveChangesSA.Click
         selfAssessment.UpdateDetailsInDatabase(SelfAssessmentDataGrid, txtAccountManagerSA, txtFeedbackDateSA, txtPersonalPerformanceRating, txtClientRating, txtTBRRating, Me)
+        ApplySelfAssessmentFormatting()
     End Sub
 
     Private Sub btnDeleteSA_Click(sender As Object, e As EventArgs) Handles btnDeleteSA.Click
         selfAssessment.DeleteDetailsFromDatabase(SelfAssessmentDataGrid, Me)
+        ApplySelfAssessmentFormatting()
     End Sub
 
     Private Sub btnCancelSA_Click(sender As Object, e As EventArgs) Handles btnCancelSA.Click
@@ -1918,14 +1958,17 @@ Public Class EmployeeF
 
     Private Sub btnAddCC_Click(sender As Object, e As EventArgs) Handles btnAddCC.Click
         competencyCertification.AddDetailsToDatabase(CompetencyCertificationDataGrid, txtEmployeeNumber, txtCertificationName, txtGrantDateCC, txtDeliberationSummary, txtOverallGrade, Me)
+        ApplyCompetencyCertificationFormatting()
     End Sub
 
     Private Sub btnSaveChangesCC_Click(sender As Object, e As EventArgs) Handles btnSaveChangesCC.Click
         competencyCertification.UpdateDetailsInDatabase(CompetencyCertificationDataGrid, txtCertificationName, txtGrantDateCC, txtDeliberationSummary, txtOverallGrade, Me)
+        ApplyCompetencyCertificationFormatting()
     End Sub
 
     Private Sub btnDeleteCC_Click(sender As Object, e As EventArgs) Handles btnDeleteCC.Click
         competencyCertification.DeleteDetailsFromDatabase(CompetencyCertificationDataGrid, Me)
+        ApplyCompetencyCertificationFormatting()
     End Sub
 
     Private Sub btnCancelCC_Click(sender As Object, e As EventArgs) Handles btnCancelCC.Click
