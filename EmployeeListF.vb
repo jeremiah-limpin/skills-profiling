@@ -75,14 +75,12 @@ Public Class EmployeeListF
                 txtFirstName.Text = employeeReader("Employee_First_Name").ToString()
                 txtLastName.Text = employeeReader("Employee_Last_Name").ToString()
 
-                'For Dashboard Purposes'
-
             Else
                 MessageBox.Show("Employee not found.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
             End If
 
             employeeReader.Close()
-
+            'Functions for respective roles
             If employeeRole = 4 Or employeeRole = 3 Then
                 btnAddEmployee.Visible = True
                 deleteEmployeeBtn.Visible = True
@@ -231,11 +229,11 @@ Public Class EmployeeListF
     End Sub
 #End Region
 #Region "Unknown Password Event"
-    Private Sub txtPassword_KeyPress(sender As Object, e As KeyPressEventArgs)
-        If Char.IsWhiteSpace(e.KeyChar) Then
-            e.Handled = True
-        End If
-    End Sub
+    'Private Sub txtPassword_KeyPress(sender As Object, e As KeyPressEventArgs)
+    'If Char.IsWhiteSpace(e.KeyChar) Then
+    'e.Handled = True
+    'End If
+    'End Sub
 #End Region 'Probably from last menu design and is now unused
 #Region "Logout"
     Private Sub btnLogout_Click(sender As Object, e As EventArgs) Handles btnLogout.Click
@@ -287,7 +285,7 @@ Public Class EmployeeListF
         addEmployee.ShowDialog()
     End Sub
 #End Region
-#Region "Delete Employee"
+#Region "Delete Employee" ' Delete all data with the chosen TBR Number
     Private Sub deleteEmployeeBtn_Click(sender As Object, e As EventArgs) Handles deleteEmployeeBtn.Click
         If EmployeeListDataGrid.SelectedRows.Count > 0 Then
             Dim selectedRow = EmployeeListDataGrid.SelectedRows(0)
@@ -428,7 +426,7 @@ Public Class EmployeeListF
 
         EmployeeListDataGrid.DataSource = dataTable
     End Sub
-    Public Sub ActiveEmployees()
+    Public Sub ActiveEmployees() 'Active Employee Radio Button
         Try
             EmployeeListDataGrid.DataSource = Nothing
 
@@ -462,7 +460,7 @@ Public Class EmployeeListF
             MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
     End Sub
-    Public Sub InactiveEmployees()
+    Public Sub InactiveEmployees() 'Inactive Employee Radio Button
         Try
             EmployeeListDataGrid.DataSource = Nothing
 

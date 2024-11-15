@@ -16,10 +16,12 @@ Public Class ForgotPasswordForm
             employeeCmd.Parameters.AddWithValue("@EmployeeNumber", employeeID)
             Dim employeeReader As OleDbDataReader = employeeCmd.ExecuteReader()
 
+            'Password Checking
             If employeeReader.Read() Then
 
                 Dim password As String = employeeReader("Employee_Password").ToString()
 
+                'Checks if new and confirm passwords match
                 If txtNewPassword.Text = txtConfirmPassword.Text Then
 
                     Try
@@ -84,6 +86,7 @@ Public Class ForgotPasswordForm
         txtNewPassword.UseSystemPasswordChar = True
     End Sub
     Private Sub txtNewPassword_GotFocus(sender As Object, e As EventArgs) Handles txtNewPassword.GotFocus
+        'Focus events for new password in relation to confirm password
         If txtConfirmPassword.Text = "" Then
             picboxNPShow.Visible = True
             picboxNPHide.Visible = False

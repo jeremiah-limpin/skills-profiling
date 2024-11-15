@@ -18,6 +18,7 @@ Public Class Attempt
             If reader.Read Then
 
                 Dim employeeRole As Integer = reader("Employee_Role")
+                'Check for role level to display appropriate login logs
                 If employeeRole = 4 Then
                     Try
 

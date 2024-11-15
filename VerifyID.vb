@@ -17,6 +17,7 @@ Public Class VerifyIDForm
             employeeCmd.Parameters.AddWithValue("@EmployeeNumber", txtVerifyID.Text)
             Dim employeeReader = employeeCmd.ExecuteReader
 
+            'Checks if ID is in Database
             If employeeReader.Read Then
 
                 Dim employeeID = employeeReader("Employee_Number").ToString
@@ -50,6 +51,7 @@ Public Class VerifyIDForm
 
     Private Sub txtVerifyID_GotFocus(sender As Object, e As EventArgs) Handles txtVerifyID.GotFocus
         lblTip.Visible = True
+        'Focus Events for textboxes
         If txtVerifyID.Text = "" Or String.IsNullOrWhiteSpace(txtVerifyID.Text) Then
             txtVerifyID.Text = ""
             txtVerifyID.ForeColor = Color.Black
@@ -63,6 +65,7 @@ Public Class VerifyIDForm
 
     Private Sub txtVerifyID_LostFocus(sender As Object, e As EventArgs) Handles txtVerifyID.LostFocus
         lblTip.Visible = False
+        'Focus Events for textboxes
         If txtVerifyID.Text = "" Or String.IsNullOrWhiteSpace(txtVerifyID.Text) Then
             txtVerifyID.Text = "Employee ID"
             txtVerifyID.ForeColor = Color.DarkGray

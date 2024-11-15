@@ -12,6 +12,7 @@ Public Class EmployeeF
     Public Property employeeNumber As String
     Public Property EmployeeID As String
 
+    'Declaring instances of respective classes for this form
     Dim employeeProfile As New EmployeeProfileClass(Me)
     Dim jobHistory As New JobHistoryClass(Me)
     Dim taskProfile As New TaskProfileClass(Me)
@@ -27,6 +28,7 @@ Public Class EmployeeF
     Dim clientFeedback As New ClientFeedbackClass(Me)
     Dim selfAssessment As New SelfAssessmentClass(Me)
     Dim competencyCertification As New CompetencyCertificationClass(Me)
+
     'this is for user
     Public employeeRoleUser As Integer
 
@@ -1177,8 +1179,7 @@ Public Class EmployeeF
         txtFirstName.Enabled = False
         txtLastName.Enabled = False
     End Sub
-#End Region 'TOP RIGHT BUTTON
-#Region "AdminDetailsShow"
+
     Private Sub DisplayEmployeeDetails(employeeNumber As String)
         connection.Close()
 
@@ -1248,14 +1249,6 @@ Public Class EmployeeF
         btnUserCancel.Visible = True
         btnEdit.Visible = False
     End Sub
-    Private Sub btnEdit_Click(sender As Object, e As EventArgs)
-        grpEnable()
-    End Sub
-
-    Private Sub btnCancelProfile_Click(sender As Object, e As EventArgs)
-        grpDisable()
-    End Sub
-
     Private Sub grpDisable()
         txtFirstName.Enabled = False
         txtLastName.Enabled = False
@@ -2106,7 +2099,7 @@ Public Class EmployeeF
     End Function
 #End Region
 #Region "Export To Word (NOT USED)"
-    Private Sub btnExportWord_Click(sender As Object, e As EventArgs) 'No button here for word export not needed, left here for possible future use
+    Private Sub btnExportWord_Click(sender As Object, e As EventArgs) Handles btnExportToWord.Click
 
         Dim saveFileDialog As New SaveFileDialog
         saveFileDialog.Filter = "Word Documents (*.docx)|(*.docx)"
@@ -2612,7 +2605,7 @@ Public Class EmployeeF
     End Sub
 #End Region ' Working
 #Region "Export To Excel (1 Sheet - NOT USED)"
-    Private Sub btnExportExcel_Click(sender As Object, e As EventArgs)
+    Private Sub btnExportExcel_Click(sender As Object, e As EventArgs) 'Handles btnExportExcelSheets.Click
 
         Dim saveFileDialog As New SaveFileDialog
         saveFileDialog.Filter = "Excel Files (*.xlsx)|*.xlsx"
@@ -3274,6 +3267,7 @@ Public Class EmployeeF
             ' Display the "Please wait" message after confirming the file save
             MessageBox.Show("Please wait while the profile is exporting. Thank you", "Profile Exporting", MessageBoxButtons.OK, MessageBoxIcon.Information)
 
+            'Takes Template format from Backroom_NAS\SkillsProfiling folder
             ExportToExcelOffFormat(connection, "\\Backroom_NAS\SkillsProfiling\Skills Profiling - Export Template.xlsx", saveFileDialog.FileName, employeeNumber)
 
             MessageBox.Show("Thank you for the wait. The profile has been exported!", "Profile Exported", MessageBoxButtons.OK, MessageBoxIcon.Information)
@@ -3296,6 +3290,7 @@ Public Class EmployeeF
         Dim excelWorkbook As Excel.Workbook = excelApp.Workbooks.Open(outputFilePath)
         Dim excelWorksheet As Excel.Worksheet = CType(excelWorkbook.Sheets(1), Excel.Worksheet)
 
+        'Declare variables for fetched Employee Details
         Dim employeeName As (String, String) = FetchEmployeeName(employeeNumber)
         Dim firstName As String = employeeName.Item1
         Dim lastName As String = employeeName.Item2
@@ -3324,6 +3319,7 @@ Public Class EmployeeF
         employeeWorksheet.Cells(2, 7).Value = status
         employeeWorksheet.Cells(2, 8).Value = link
 
+        'Queries for Selecting Tables and inserting data into cells
         Dim startRow = 3
         Dim jobHistoryWorksheet As Excel.Worksheet = CType(excelWorkbook.Sheets("Job_History"), Excel.Worksheet)
         Dim jobHistoryQuery As String = "SELECT Employee_Number, Role_and_Designation, Client_Name, Region, Start_Date, End_Date, Reason_for_Change FROM Job_History WHERE Employee_Number = @EmployeeNumber"
@@ -3456,6 +3452,8 @@ Public Class EmployeeF
     ' Helper function to export data and format it
     Public Sub ExportTableToExcelOffFormat(connection As OleDbConnection, worksheet As Excel.Worksheet, query As String, tableName As String, employeeNumber As String, startRow As Integer)
         connection.Open()
+
+        'Declare row in which data will be inserted into
         Dim currentRow As Integer = startRow
         Using command As New OleDbCommand(query, connection)
             command.Parameters.AddWithValue("@EmployeeNumber", employeeNumber)
@@ -3659,14 +3657,14 @@ Public Class EmployeeF
 #End Region 'Current Working Excel Format
 #End Region 'Contains WORD(UNUSED), PDF (WORKING), EXCEL (OFF FORMAT WORKING, Others have Report Format)
 #Region "Others"
-    Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs)
-        Process.Start(New ProcessStartInfo With {
-            .FileName = "cmd",
-            .Arguments = $"/c start https://thebackroommop.sharepoint.com/sites/BackroomSkillsProfiling/Shared%20Documents/Forms/AllItems.aspx",
-            .UseShellExecute = False,
-            .CreateNoWindow = True
-        })
-    End Sub
+    'Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs)
+    'Process.Start(New ProcessStartInfo With {
+    '.FileName = "cmd",
+    '.Arguments = $"/c start https://thebackroommop.sharepoint.com/sites/BackroomSkillsProfiling/Shared%20Documents/Forms/AllItems.aspx",
+    '.UseShellExecute = False,
+    '.CreateNoWindow = True
+    '})
+    'End Sub
 
     Private Sub accountButton_Click(sender As Object, e As EventArgs) Handles picboxMenu.Click
         If grpEmployeeProfile.Visible = True Then

@@ -281,6 +281,7 @@ Partial Class EmployeeF
         lblFirstName = New Label()
         txtLastName = New TextBox()
         PictureBox6 = New PictureBox()
+        btnExportToWord = New Button()
         EmployeeTabControl.SuspendLayout()
         EmployeeProfileTab.SuspendLayout()
         CType(EmployeeProfileDataGrid, ComponentModel.ISupportInitialize).BeginInit()
@@ -354,6 +355,7 @@ Partial Class EmployeeF
         ' EmployeeProfileTab
         ' 
         EmployeeProfileTab.BackColor = Color.FromArgb(CByte(52), CByte(37), CByte(107))
+        EmployeeProfileTab.Controls.Add(btnExportToWord)
         EmployeeProfileTab.Controls.Add(btnExportExcelSheets)
         EmployeeProfileTab.Controls.Add(btnExportPDF)
         EmployeeProfileTab.Controls.Add(chkbxIsActive)
@@ -3780,6 +3782,22 @@ Partial Class EmployeeF
         PictureBox6.TabIndex = 44
         PictureBox6.TabStop = False
         ' 
+        ' btnExportToWord
+        ' 
+        btnExportToWord.BackColor = Color.FromArgb(CByte(245), CByte(155), CByte(184))
+        btnExportToWord.FlatAppearance.BorderSize = 0
+        btnExportToWord.FlatStyle = FlatStyle.Flat
+        btnExportToWord.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
+        btnExportToWord.ForeColor = Color.White
+        btnExportToWord.Location = New Point(13, 551)
+        btnExportToWord.Margin = New Padding(3, 2, 3, 2)
+        btnExportToWord.Name = "btnExportToWord"
+        btnExportToWord.Size = New Size(209, 53)
+        btnExportToWord.TabIndex = 58
+        btnExportToWord.Text = "Export Employee Details to Word"
+        btnExportToWord.UseVisualStyleBackColor = False
+        btnExportToWord.Visible = False
+        ' 
         ' EmployeeF
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -4123,4 +4141,5 @@ Partial Class EmployeeF
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents btnExportPDF As Button
     Friend WithEvents btnExportExcelSheets As Button
+    Friend WithEvents btnExportToWord As Button
 End Class

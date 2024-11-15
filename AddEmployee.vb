@@ -7,6 +7,7 @@ Public Class AddEmployee
     Private Sub btnAdd_Click(sender As Object, e As EventArgs) Handles btnAdd.Click, Button2.Click
         connection.Close()
 
+        'IsNullOrWhiteSpace Prevent Empty Textboxes
         If String.IsNullOrWhiteSpace(txtEmployeeID.Text) Then
             MessageBox.Show("Please fill in the Employee ID field.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
             txtEmployeeID.Focus()
@@ -34,11 +35,13 @@ Public Class AddEmployee
             checkCmd.Parameters.AddWithValue("@Employee_Number", txtEmployeeID.Text)
             Dim count As Integer = checkCmd.ExecuteScalar
 
+            'Checks if Employee ID Exists before creating a new one
             If count > 0 Then
                 MessageBox.Show("Employee ID already exists.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
                 Return
             End If
 
+            'Employe profile variables
             Dim employeeNumber = "TBR-" & txtEmployeeID.Text
             Dim employeePassword = "Spl3ndid2024"
             Dim firstName = txtFirstName.Text
@@ -48,8 +51,10 @@ Public Class AddEmployee
             Dim status = "Active"
             Dim sharepointLink = txtSharepoint.Text
 
+            'Insert query into database
             Dim insertQuery = "INSERT INTO Employee_Profile (Employee_Number, Employee_Password, Employee_First_Name, Employee_Last_Name, Employee_Role, Last_Update, Status, Sharepoint_Link) VALUES (@Employee_Number, @Employee_Password, @Employee_First_Name, @Employee_Last_Name, @Employee_Role, @Last_Update, @Status, @Sharepoint_Link)"
 
+            'insert command to insert data into respective fields
             Dim insertCmd As New OleDbCommand(insertQuery, connection)
             insertCmd.Parameters.AddWithValue("@Employee_Number", employeeNumber)
             insertCmd.Parameters.AddWithValue("@Employee_Password", employeePassword)
@@ -85,6 +90,7 @@ Public Class AddEmployee
     End Sub
 
     Private Sub ClearFields()
+        'Clears textboxes in the Add Employee Form
         txtEmployeeID.Clear()
         txtFirstName.Clear()
         txtLastName.Clear()
@@ -106,6 +112,7 @@ Public Class AddEmployee
     Private Sub UpdateControlsVisibility()
         Dim allTextboxesFilled As Boolean = Not String.IsNullOrEmpty(txtEmployeeID.Text) AndAlso Not String.IsNullOrEmpty(txtFirstName.Text) AndAlso Not String.IsNullOrEmpty(txtLastName.Text)
 
+        'Visibility events for Sharepoint textbox if all other textboxes are filled
         If allTextboxesFilled Then
             txtSharepoint.Visible = True
             lblSharepoint.Visible = True
@@ -126,6 +133,7 @@ Public Class AddEmployee
         Dim expectedStartOfLink = "https://thebackroommop.sharepoint.com/:f:/s/BackroomSkillsProfiling/"
         Dim currentLink = txtSharepoint.Text.Trim
 
+        'Enables "Save the Information" Checkbox for when there is a valid sharepoint link
         If Not currentLink.StartsWith(expectedStartOfLink) AndAlso Not String.IsNullOrEmpty(currentLink) Then
             MessageBox.Show("Please make sure you have entered a valid SharePoint link.", "Invalid SharePoint Link", MessageBoxButtons.OK, MessageBoxIcon.Warning)
             chkbxSaveInfo.Enabled = False
@@ -141,6 +149,7 @@ Public Class AddEmployee
 
 
     Private Sub chkbxSaveInfo_CheckedChanged(sender As Object, e As EventArgs) Handles chkbxSaveInfo.CheckedChanged
+        'Enables Add button if the checkbox is checked
         If chkbxSaveInfo.Checked = True Then
             btnAdd.Enabled = True
         Else
@@ -149,6 +158,7 @@ Public Class AddEmployee
     End Sub
 
     Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles lnklblSharepoint.LinkClicked
+        'Backroom Sharepoint folders Link
         Process.Start(New ProcessStartInfo With {
             .FileName = "cmd",
             .Arguments = $"/c start https://thebackroommop.sharepoint.com/sites/BackroomSkillsProfiling/Shared%20Documents/Forms/AllItems.aspx",

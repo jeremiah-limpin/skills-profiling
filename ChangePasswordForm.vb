@@ -15,6 +15,7 @@ Public Class ChangePasswordForm
         Try
             connection.Open()
 
+            'Gets ID from the LoginF Form
             Dim loginID As String = LoginF.adminID
             Dim employeeQuery As String = "SELECT Employee_Number, Employee_Password FROM Employee_Profile WHERE Employee_Number = @EmployeeNumber"
             Dim employeeCmd As New OleDbCommand(employeeQuery, connection)
@@ -25,8 +26,9 @@ Public Class ChangePasswordForm
 
                 Dim password As String = employeeReader("Employee_Password").ToString()
 
+                'Checks if Old Password input is the same as stored old password
                 If txtOldPassword.Text = password Then
-
+                    'Compares new and confirm password after old passmword identification.
                     If txtNewPassword.Text = txtConfirmPassword.Text Then
 
                         Try
