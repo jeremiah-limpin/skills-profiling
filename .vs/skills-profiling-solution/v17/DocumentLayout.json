@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:employeef.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\performanceevaluationclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:performanceevaluationclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\jobhistoryclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:jobhistoryclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\employeef.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:employeef.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\taskprofileclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:taskprofileclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\forgotpasswordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:forgotpasswordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\employeelistf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:trainingprogramsclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\forgotpasswordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:forgotpasswordform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|c:\\users\\vinceandreicabral\\onedrive - the back room offshoring inc\\desktop\\skills-profiling\\loginf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{D4C0401F-7A90-4B92-9D1C-825C3C626006}|Skills Profiling.vbproj|solutionrelative:loginf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
@@ -54,11 +66,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 279,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskProfileClass.vb",
+              "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\TaskProfileClass.vb",
+              "RelativeDocumentMoniker": "TaskProfileClass.vb",
+              "ToolTip": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\TaskProfileClass.vb",
+              "RelativeToolTip": "TaskProfileClass.vb",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T06:29:43.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobHistoryClass.vb",
+              "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\JobHistoryClass.vb",
+              "RelativeDocumentMoniker": "JobHistoryClass.vb",
+              "ToolTip": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\JobHistoryClass.vb",
+              "RelativeToolTip": "JobHistoryClass.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T05:24:04.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeF.vb",
+              "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\EmployeeF.vb",
+              "RelativeDocumentMoniker": "EmployeeF.vb",
+              "ToolTip": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\EmployeeF.vb",
+              "RelativeToolTip": "EmployeeF.vb",
+              "ViewState": "AgIAANYDAAAAAAAAAAA2wAgEAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-06T07:17:40.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PerformanceEvaluationClass.vb",
+              "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\PerformanceEvaluationClass.vb",
+              "RelativeDocumentMoniker": "PerformanceEvaluationClass.vb",
+              "ToolTip": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\PerformanceEvaluationClass.vb",
+              "RelativeToolTip": "PerformanceEvaluationClass.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T05:25:53.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EmployeeF.vb [Design]",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\EmployeeF.vb",
               "RelativeDocumentMoniker": "EmployeeF.vb",
@@ -70,20 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeF.vb",
-              "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\EmployeeF.vb",
-              "RelativeDocumentMoniker": "EmployeeF.vb",
-              "ToolTip": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\EmployeeF.vb",
-              "RelativeToolTip": "EmployeeF.vb",
-              "ViewState": "AgIAAD8OAAAAAAAAAAAUwF0OAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-06T07:17:40.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "AddEmployee.vb [Design]",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\AddEmployee.vb",
               "RelativeDocumentMoniker": "AddEmployee.vb",
@@ -95,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "TrainingProgramsClass.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\TrainingProgramsClass.vb",
               "RelativeDocumentMoniker": "TrainingProgramsClass.vb",
@@ -103,12 +151,11 @@
               "RelativeToolTip": "TrainingProgramsClass.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T03:36:40.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:36:40.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "VerifyID.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\VerifyID.vb",
               "RelativeDocumentMoniker": "VerifyID.vb",
@@ -116,12 +163,11 @@
               "RelativeToolTip": "VerifyID.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T03:34:27.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:34:27.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EmployeeListF.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\EmployeeListF.vb",
               "RelativeDocumentMoniker": "EmployeeListF.vb",
@@ -129,12 +175,11 @@
               "RelativeToolTip": "EmployeeListF.vb",
               "ViewState": "AgIAANcAAAAAAAAAAAAUwOYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T01:11:07.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T01:11:07.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ChangePasswordForm.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\ChangePasswordForm.vb",
               "RelativeDocumentMoniker": "ChangePasswordForm.vb",
@@ -142,12 +187,11 @@
               "RelativeToolTip": "ChangePasswordForm.vb",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T03:32:05.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:32:05.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Attempt.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Attempt.vb",
               "RelativeDocumentMoniker": "Attempt.vb",
@@ -155,12 +199,11 @@
               "RelativeToolTip": "Attempt.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T03:30:54.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:30:54.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AddEmployee.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\AddEmployee.vb",
               "RelativeDocumentMoniker": "AddEmployee.vb",
@@ -168,25 +211,23 @@
               "RelativeToolTip": "AddEmployee.vb",
               "ViewState": "AgIAAHYAAAAAAAAAAAAYwKkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T03:28:19.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:28:19.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ForgotPasswordForm.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\ForgotPasswordForm.vb",
               "RelativeDocumentMoniker": "ForgotPasswordForm.vb",
               "ToolTip": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\ForgotPasswordForm.vb",
               "RelativeToolTip": "ForgotPasswordForm.vb",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA9wFgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T03:25:55.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:25:55.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "LoginF.vb",
               "DocumentMoniker": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\LoginF.vb",
               "RelativeDocumentMoniker": "LoginF.vb",
@@ -194,8 +235,7 @@
               "RelativeToolTip": "LoginF.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-15T03:22:52.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:22:52.681Z"
             }
           ]
         }

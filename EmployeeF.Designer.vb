@@ -25,6 +25,7 @@ Partial Class EmployeeF
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(EmployeeF))
         EmployeeTabControl = New TabControl()
         EmployeeProfileTab = New TabPage()
+        btnExportToWord = New Button()
         btnExportExcelSheets = New Button()
         btnExportPDF = New Button()
         chkbxIsActive = New CheckBox()
@@ -281,7 +282,6 @@ Partial Class EmployeeF
         lblFirstName = New Label()
         txtLastName = New TextBox()
         PictureBox6 = New PictureBox()
-        btnExportToWord = New Button()
         EmployeeTabControl.SuspendLayout()
         EmployeeProfileTab.SuspendLayout()
         CType(EmployeeProfileDataGrid, ComponentModel.ISupportInitialize).BeginInit()
@@ -378,6 +378,22 @@ Partial Class EmployeeF
         EmployeeProfileTab.Size = New Size(884, 652)
         EmployeeProfileTab.TabIndex = 14
         EmployeeProfileTab.Text = "Employee Profile"
+        ' 
+        ' btnExportToWord
+        ' 
+        btnExportToWord.BackColor = Color.FromArgb(CByte(245), CByte(155), CByte(184))
+        btnExportToWord.FlatAppearance.BorderSize = 0
+        btnExportToWord.FlatStyle = FlatStyle.Flat
+        btnExportToWord.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
+        btnExportToWord.ForeColor = Color.White
+        btnExportToWord.Location = New Point(13, 551)
+        btnExportToWord.Margin = New Padding(3, 2, 3, 2)
+        btnExportToWord.Name = "btnExportToWord"
+        btnExportToWord.Size = New Size(209, 53)
+        btnExportToWord.TabIndex = 58
+        btnExportToWord.Text = "Export Employee Details to Word"
+        btnExportToWord.UseVisualStyleBackColor = False
+        btnExportToWord.Visible = False
         ' 
         ' btnExportExcelSheets
         ' 
@@ -795,7 +811,7 @@ Partial Class EmployeeF
         JobHistoryDataGrid.Margin = New Padding(3, 2, 3, 2)
         JobHistoryDataGrid.Name = "JobHistoryDataGrid"
         JobHistoryDataGrid.RowHeadersWidth = 51
-        JobHistoryDataGrid.Size = New Size(652, 711)
+        JobHistoryDataGrid.Size = New Size(652, 678)
         JobHistoryDataGrid.TabIndex = 0
         ' 
         ' TaskProfileTab
@@ -1000,7 +1016,7 @@ Partial Class EmployeeF
         TaskProfileDataGrid.Margin = New Padding(3, 2, 3, 2)
         TaskProfileDataGrid.Name = "TaskProfileDataGrid"
         TaskProfileDataGrid.RowHeadersWidth = 51
-        TaskProfileDataGrid.Size = New Size(652, 711)
+        TaskProfileDataGrid.Size = New Size(652, 678)
         TaskProfileDataGrid.TabIndex = 1
         ' 
         ' SoftwareAndToolsTab
@@ -1160,7 +1176,7 @@ Partial Class EmployeeF
         SoftwareAndToolsDataGrid.Margin = New Padding(3, 2, 3, 2)
         SoftwareAndToolsDataGrid.Name = "SoftwareAndToolsDataGrid"
         SoftwareAndToolsDataGrid.RowHeadersWidth = 51
-        SoftwareAndToolsDataGrid.Size = New Size(652, 711)
+        SoftwareAndToolsDataGrid.Size = New Size(652, 678)
         SoftwareAndToolsDataGrid.TabIndex = 2
         ' 
         ' SkillsInterviewTab
@@ -1182,10 +1198,10 @@ Partial Class EmployeeF
         SkillsInterviewTab.Controls.Add(dtpckerDate)
         SkillsInterviewTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         SkillsInterviewTab.ForeColor = Color.Black
-        SkillsInterviewTab.Location = New Point(4, 67)
+        SkillsInterviewTab.Location = New Point(4, 34)
         SkillsInterviewTab.Margin = New Padding(3, 2, 3, 2)
         SkillsInterviewTab.Name = "SkillsInterviewTab"
-        SkillsInterviewTab.Size = New Size(884, 652)
+        SkillsInterviewTab.Size = New Size(884, 685)
         SkillsInterviewTab.TabIndex = 3
         SkillsInterviewTab.Text = "Skills Interview"
         ' 
@@ -1386,10 +1402,10 @@ Partial Class EmployeeF
         PerformanceEvaluationTab.Controls.Add(dtpckerEvalutionDate)
         PerformanceEvaluationTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         PerformanceEvaluationTab.ForeColor = Color.Black
-        PerformanceEvaluationTab.Location = New Point(4, 67)
+        PerformanceEvaluationTab.Location = New Point(4, 34)
         PerformanceEvaluationTab.Margin = New Padding(3, 2, 3, 2)
         PerformanceEvaluationTab.Name = "PerformanceEvaluationTab"
-        PerformanceEvaluationTab.Size = New Size(884, 652)
+        PerformanceEvaluationTab.Size = New Size(884, 685)
         PerformanceEvaluationTab.TabIndex = 4
         PerformanceEvaluationTab.Text = "Performance Evaluation"
         ' 
@@ -1594,10 +1610,10 @@ Partial Class EmployeeF
         SkillsTriageTab.Controls.Add(dtpckerDateClose)
         SkillsTriageTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         SkillsTriageTab.ForeColor = Color.Black
-        SkillsTriageTab.Location = New Point(4, 67)
+        SkillsTriageTab.Location = New Point(4, 34)
         SkillsTriageTab.Margin = New Padding(3, 2, 3, 2)
         SkillsTriageTab.Name = "SkillsTriageTab"
-        SkillsTriageTab.Size = New Size(884, 652)
+        SkillsTriageTab.Size = New Size(884, 685)
         SkillsTriageTab.TabIndex = 5
         SkillsTriageTab.Text = "Skills Triage"
         ' 
@@ -1839,10 +1855,10 @@ Partial Class EmployeeF
         TrainingHistoryTab.Controls.Add(dtpckerCompletion)
         TrainingHistoryTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         TrainingHistoryTab.ForeColor = Color.Black
-        TrainingHistoryTab.Location = New Point(4, 67)
+        TrainingHistoryTab.Location = New Point(4, 34)
         TrainingHistoryTab.Margin = New Padding(3, 2, 3, 2)
         TrainingHistoryTab.Name = "TrainingHistoryTab"
-        TrainingHistoryTab.Size = New Size(884, 652)
+        TrainingHistoryTab.Size = New Size(884, 685)
         TrainingHistoryTab.TabIndex = 6
         TrainingHistoryTab.Text = "Training History"
         ' 
@@ -3781,22 +3797,6 @@ Partial Class EmployeeF
         PictureBox6.Size = New Size(86, 75)
         PictureBox6.TabIndex = 44
         PictureBox6.TabStop = False
-        ' 
-        ' btnExportToWord
-        ' 
-        btnExportToWord.BackColor = Color.FromArgb(CByte(245), CByte(155), CByte(184))
-        btnExportToWord.FlatAppearance.BorderSize = 0
-        btnExportToWord.FlatStyle = FlatStyle.Flat
-        btnExportToWord.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
-        btnExportToWord.ForeColor = Color.White
-        btnExportToWord.Location = New Point(13, 551)
-        btnExportToWord.Margin = New Padding(3, 2, 3, 2)
-        btnExportToWord.Name = "btnExportToWord"
-        btnExportToWord.Size = New Size(209, 53)
-        btnExportToWord.TabIndex = 58
-        btnExportToWord.Text = "Export Employee Details to Word"
-        btnExportToWord.UseVisualStyleBackColor = False
-        btnExportToWord.Visible = False
         ' 
         ' EmployeeF
         ' 

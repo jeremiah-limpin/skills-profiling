@@ -14,7 +14,7 @@ Public Class JobHistoryClass
         Try
             connection.Open()
 
-            Dim query As String = "SELECT Role_and_Designation, Client_Name, Region, Start_Date, End_Date, Reason_for_Change FROM Job_History WHERE Employee_Number = @EmployeeNumber"
+            Dim query As String = "SELECT Job_ID, Role_and_Designation, Client_Name, Region, Start_Date, End_Date, Reason_for_Change FROM Job_History WHERE Employee_Number = @EmployeeNumber"
 
             Dim adapter As New OleDbDataAdapter(query, connection)
             adapter.SelectCommand.Parameters.AddWithValue("@EmployeeNumber", employeeNumber)

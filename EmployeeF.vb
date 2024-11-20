@@ -100,7 +100,7 @@ Public Class EmployeeF
 #End Region 'Done
 #Region "Job History Formatting"
     Public Sub ApplyJobHistoryFormatting()
-        Dim query As String = "SELECT Role_and_Designation, Client_Name, Region, Start_Date, End_Date, Reason_for_Change FROM Job_History WHERE Employee_Number = @EmployeeNumber"
+        Dim query As String = "SELECT Job_ID, Role_and_Designation, Client_Name, Region, Start_Date, End_Date, Reason_for_Change FROM Job_History WHERE Employee_Number = @EmployeeNumber"
 
         Dim adapter As New OleDbDataAdapter(query, connection)
         adapter.SelectCommand.Parameters.AddWithValue("@EmployeeNumber", employeeNumber)
@@ -111,12 +111,17 @@ Public Class EmployeeF
 
         JobHistoryDataGrid.DataSource = dataTable
 
+        If JobHistoryDataGrid.Columns.Contains("Job_ID") Then
+            JobHistoryDataGrid.Columns("Job_ID").Visible = False
+        End If
+
         ' format of the Job History Data Grid
         JobHistoryDataGrid.DefaultCellStyle.Padding = New Padding(8, 8, 8, 8)
         JobHistoryDataGrid.ReadOnly = True
         JobHistoryDataGrid.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.DisplayedCells
         JobHistoryDataGrid.DefaultCellStyle.WrapMode = DataGridViewTriState.True
         JobHistoryDataGrid.RowHeadersWidthSizeMode = DataGridViewRowHeadersWidthSizeMode.DisableResizing
+
 
 
         ' Remove manual column width settings
@@ -1023,9 +1028,13 @@ Public Class EmployeeF
 
     Private Sub EmployeeTabControl_SelectedIndexChanged(sender As Object, e As EventArgs)
 
-        If EmployeeTabControl.SelectedIndex = 1 Then
+        If EmployeeTabControl.SelectedIndex = 15 Then
 
             ApplyEmployeeProfileFormatting()
+
+        ElseIf EmployeeTabControl.SelectedIndex = 1 Then
+
+            ApplyJobHistoryFormatting()
 
         ElseIf EmployeeTabControl.SelectedIndex = 2 Then
 
