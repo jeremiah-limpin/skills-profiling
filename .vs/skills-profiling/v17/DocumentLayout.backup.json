@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JeremiahLimpin\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JeremiahLimpin\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\LoginF.vb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginF.vb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginF.vb",
+              "DocumentMoniker": "C:\\Users\\JeremiahLimpin\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\LoginF.vb",
+              "RelativeDocumentMoniker": "LoginF.vb",
+              "ToolTip": "C:\\Users\\JeremiahLimpin\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\LoginF.vb",
+              "RelativeToolTip": "LoginF.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T02:18:22.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
