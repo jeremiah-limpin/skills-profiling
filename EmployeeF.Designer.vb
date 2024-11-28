@@ -101,6 +101,10 @@ Partial Class EmployeeF
         SkillsInterviewDataGrid = New DataGridView()
         dtpckerDate = New TextBox()
         PerformanceEvaluationTab = New TabPage()
+        Label2 = New Label()
+        txtOverallScore = New TextBox()
+        Label3 = New Label()
+        txtFinalRemarks = New TextBox()
         btnDeletePE = New Button()
         btnSaveChangesPE = New Button()
         btnCancelPE = New Button()
@@ -370,7 +374,7 @@ Partial Class EmployeeF
         EmployeeProfileTab.Controls.Add(Label7)
         EmployeeProfileTab.Controls.Add(txtFname)
         EmployeeProfileTab.Controls.Add(txtLname)
-        EmployeeProfileTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        EmployeeProfileTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         EmployeeProfileTab.Location = New Point(4, 67)
         EmployeeProfileTab.Margin = New Padding(3, 2, 3, 2)
         EmployeeProfileTab.Name = "EmployeeProfileTab"
@@ -488,7 +492,7 @@ Partial Class EmployeeF
         ' 
         ' txtSharepointLink
         ' 
-        txtSharepointLink.Font = New System.Drawing.Font("Gotham", 9F)
+        txtSharepointLink.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtSharepointLink.Location = New Point(13, 193)
         txtSharepointLink.Margin = New Padding(3, 2, 3, 2)
         txtSharepointLink.Multiline = True
@@ -509,7 +513,7 @@ Partial Class EmployeeF
         ' 
         ' txtLastUpdate
         ' 
-        txtLastUpdate.Font = New System.Drawing.Font("Gotham", 9F)
+        txtLastUpdate.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtLastUpdate.Location = New Point(14, 143)
         txtLastUpdate.Margin = New Padding(3, 2, 3, 2)
         txtLastUpdate.Name = "txtLastUpdate"
@@ -548,7 +552,7 @@ Partial Class EmployeeF
         ' 
         ' txtFname
         ' 
-        txtFname.Font = New System.Drawing.Font("Gotham", 9F)
+        txtFname.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtFname.Location = New Point(13, 32)
         txtFname.Margin = New Padding(3, 2, 3, 2)
         txtFname.Name = "txtFname"
@@ -557,7 +561,7 @@ Partial Class EmployeeF
         ' 
         ' txtLname
         ' 
-        txtLname.Font = New System.Drawing.Font("Gotham", 9F)
+        txtLname.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtLname.Location = New Point(13, 76)
         txtLname.Margin = New Padding(3, 2, 3, 2)
         txtLname.Name = "txtLname"
@@ -585,7 +589,7 @@ Partial Class EmployeeF
         JobHistoryTab.Controls.Add(txtStartDateJ)
         JobHistoryTab.Controls.Add(txtEndDateJ)
         JobHistoryTab.Controls.Add(JobHistoryDataGrid)
-        JobHistoryTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        JobHistoryTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         JobHistoryTab.Location = New Point(4, 67)
         JobHistoryTab.Margin = New Padding(3, 2, 3, 2)
         JobHistoryTab.Name = "JobHistoryTab"
@@ -596,7 +600,7 @@ Partial Class EmployeeF
         ' 
         ' txtClientName
         ' 
-        txtClientName.Font = New System.Drawing.Font("Gotham", 9F)
+        txtClientName.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtClientName.Location = New Point(13, 90)
         txtClientName.Margin = New Padding(3, 2, 3, 2)
         txtClientName.Multiline = True
@@ -670,7 +674,7 @@ Partial Class EmployeeF
         ' 
         ' txtReasonForChange
         ' 
-        txtReasonForChange.Font = New System.Drawing.Font("Gotham", 9F)
+        txtReasonForChange.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtReasonForChange.Location = New Point(14, 260)
         txtReasonForChange.Margin = New Padding(3, 2, 3, 2)
         txtReasonForChange.Multiline = True
@@ -711,7 +715,7 @@ Partial Class EmployeeF
         ' 
         ' txtRegion
         ' 
-        txtRegion.Font = New System.Drawing.Font("Gotham", 9F)
+        txtRegion.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtRegion.Location = New Point(13, 141)
         txtRegion.Margin = New Padding(3, 2, 3, 2)
         txtRegion.Name = "txtRegion"
@@ -741,7 +745,7 @@ Partial Class EmployeeF
         ' 
         ' txtRoleDesignation
         ' 
-        txtRoleDesignation.Font = New System.Drawing.Font("Gotham", 9F)
+        txtRoleDesignation.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtRoleDesignation.Location = New Point(13, 32)
         txtRoleDesignation.Margin = New Padding(3, 2, 3, 2)
         txtRoleDesignation.Multiline = True
@@ -777,7 +781,7 @@ Partial Class EmployeeF
         ' 
         ' txtStartDateJ
         ' 
-        txtStartDateJ.Font = New System.Drawing.Font("Gotham", 9F)
+        txtStartDateJ.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtStartDateJ.Location = New Point(13, 178)
         txtStartDateJ.Margin = New Padding(3, 2, 3, 2)
         txtStartDateJ.Name = "txtStartDateJ"
@@ -787,7 +791,7 @@ Partial Class EmployeeF
         ' 
         ' txtEndDateJ
         ' 
-        txtEndDateJ.Font = New System.Drawing.Font("Gotham", 9F)
+        txtEndDateJ.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtEndDateJ.Location = New Point(13, 218)
         txtEndDateJ.Margin = New Padding(3, 2, 3, 2)
         txtEndDateJ.Name = "txtEndDateJ"
@@ -811,7 +815,7 @@ Partial Class EmployeeF
         JobHistoryDataGrid.Margin = New Padding(3, 2, 3, 2)
         JobHistoryDataGrid.Name = "JobHistoryDataGrid"
         JobHistoryDataGrid.RowHeadersWidth = 51
-        JobHistoryDataGrid.Size = New Size(652, 678)
+        JobHistoryDataGrid.Size = New Size(652, 645)
         JobHistoryDataGrid.TabIndex = 0
         ' 
         ' TaskProfileTab
@@ -831,7 +835,7 @@ Partial Class EmployeeF
         TaskProfileTab.Controls.Add(txtTaskName)
         TaskProfileTab.Controls.Add(lblTaskProfile)
         TaskProfileTab.Controls.Add(TaskProfileDataGrid)
-        TaskProfileTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        TaskProfileTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         TaskProfileTab.Location = New Point(4, 67)
         TaskProfileTab.Margin = New Padding(3, 2, 3, 2)
         TaskProfileTab.Name = "TaskProfileTab"
@@ -920,7 +924,7 @@ Partial Class EmployeeF
         ' 
         ' txtDescription
         ' 
-        txtDescription.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDescription.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDescription.Location = New Point(13, 168)
         txtDescription.Margin = New Padding(3, 2, 3, 2)
         txtDescription.Multiline = True
@@ -941,7 +945,7 @@ Partial Class EmployeeF
         ' 
         ' txtPOC
         ' 
-        txtPOC.Font = New System.Drawing.Font("Gotham", 9F)
+        txtPOC.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtPOC.Location = New Point(13, 119)
         txtPOC.Margin = New Padding(3, 2, 3, 2)
         txtPOC.Name = "txtPOC"
@@ -961,7 +965,7 @@ Partial Class EmployeeF
         ' 
         ' txtCategory
         ' 
-        txtCategory.Font = New System.Drawing.Font("Gotham", 9F)
+        txtCategory.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtCategory.Location = New Point(13, 76)
         txtCategory.Margin = New Padding(3, 2, 3, 2)
         txtCategory.Name = "txtCategory"
@@ -981,7 +985,7 @@ Partial Class EmployeeF
         ' 
         ' txtTaskName
         ' 
-        txtTaskName.Font = New System.Drawing.Font("Gotham", 9F)
+        txtTaskName.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtTaskName.Location = New Point(13, 32)
         txtTaskName.Margin = New Padding(3, 2, 3, 2)
         txtTaskName.Name = "txtTaskName"
@@ -1016,7 +1020,7 @@ Partial Class EmployeeF
         TaskProfileDataGrid.Margin = New Padding(3, 2, 3, 2)
         TaskProfileDataGrid.Name = "TaskProfileDataGrid"
         TaskProfileDataGrid.RowHeadersWidth = 51
-        TaskProfileDataGrid.Size = New Size(652, 678)
+        TaskProfileDataGrid.Size = New Size(652, 645)
         TaskProfileDataGrid.TabIndex = 1
         ' 
         ' SoftwareAndToolsTab
@@ -1032,7 +1036,7 @@ Partial Class EmployeeF
         SoftwareAndToolsTab.Controls.Add(lblSoftwareOrTools)
         SoftwareAndToolsTab.Controls.Add(txtSoftwareOrTools)
         SoftwareAndToolsTab.Controls.Add(SoftwareAndToolsDataGrid)
-        SoftwareAndToolsTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        SoftwareAndToolsTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         SoftwareAndToolsTab.ForeColor = Color.Black
         SoftwareAndToolsTab.Location = New Point(4, 67)
         SoftwareAndToolsTab.Margin = New Padding(3, 2, 3, 2)
@@ -1131,7 +1135,7 @@ Partial Class EmployeeF
         ' 
         ' txtUsedFor
         ' 
-        txtUsedFor.Font = New System.Drawing.Font("Gotham", 9F)
+        txtUsedFor.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtUsedFor.Location = New Point(13, 73)
         txtUsedFor.Margin = New Padding(3, 2, 3, 2)
         txtUsedFor.Multiline = True
@@ -1152,7 +1156,7 @@ Partial Class EmployeeF
         ' 
         ' txtSoftwareOrTools
         ' 
-        txtSoftwareOrTools.Font = New System.Drawing.Font("Gotham", 9F)
+        txtSoftwareOrTools.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtSoftwareOrTools.Location = New Point(13, 32)
         txtSoftwareOrTools.Margin = New Padding(3, 2, 3, 2)
         txtSoftwareOrTools.Name = "txtSoftwareOrTools"
@@ -1176,7 +1180,7 @@ Partial Class EmployeeF
         SoftwareAndToolsDataGrid.Margin = New Padding(3, 2, 3, 2)
         SoftwareAndToolsDataGrid.Name = "SoftwareAndToolsDataGrid"
         SoftwareAndToolsDataGrid.RowHeadersWidth = 51
-        SoftwareAndToolsDataGrid.Size = New Size(652, 678)
+        SoftwareAndToolsDataGrid.Size = New Size(652, 645)
         SoftwareAndToolsDataGrid.TabIndex = 2
         ' 
         ' SkillsInterviewTab
@@ -1196,12 +1200,12 @@ Partial Class EmployeeF
         SkillsInterviewTab.Controls.Add(btnClearSI)
         SkillsInterviewTab.Controls.Add(SkillsInterviewDataGrid)
         SkillsInterviewTab.Controls.Add(dtpckerDate)
-        SkillsInterviewTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        SkillsInterviewTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         SkillsInterviewTab.ForeColor = Color.Black
-        SkillsInterviewTab.Location = New Point(4, 34)
+        SkillsInterviewTab.Location = New Point(4, 67)
         SkillsInterviewTab.Margin = New Padding(3, 2, 3, 2)
         SkillsInterviewTab.Name = "SkillsInterviewTab"
-        SkillsInterviewTab.Size = New Size(884, 685)
+        SkillsInterviewTab.Size = New Size(884, 652)
         SkillsInterviewTab.TabIndex = 3
         SkillsInterviewTab.Text = "Skills Interview"
         ' 
@@ -1255,7 +1259,7 @@ Partial Class EmployeeF
         ' 
         ' txtAssessmentNotes
         ' 
-        txtAssessmentNotes.Font = New System.Drawing.Font("Gotham", 9F)
+        txtAssessmentNotes.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtAssessmentNotes.Location = New Point(13, 177)
         txtAssessmentNotes.Margin = New Padding(3, 2, 3, 2)
         txtAssessmentNotes.Multiline = True
@@ -1291,7 +1295,7 @@ Partial Class EmployeeF
         ' 
         ' txtInterviewer
         ' 
-        txtInterviewer.Font = New System.Drawing.Font("Gotham", 9F)
+        txtInterviewer.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtInterviewer.Location = New Point(13, 119)
         txtInterviewer.Margin = New Padding(3, 2, 3, 2)
         txtInterviewer.Name = "txtInterviewer"
@@ -1321,7 +1325,7 @@ Partial Class EmployeeF
         ' 
         ' txtRoleOrDesignation
         ' 
-        txtRoleOrDesignation.Font = New System.Drawing.Font("Gotham", 9F)
+        txtRoleOrDesignation.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtRoleOrDesignation.Location = New Point(13, 32)
         txtRoleOrDesignation.Margin = New Padding(3, 2, 3, 2)
         txtRoleOrDesignation.Name = "txtRoleOrDesignation"
@@ -1370,12 +1374,12 @@ Partial Class EmployeeF
         SkillsInterviewDataGrid.Margin = New Padding(3, 2, 3, 2)
         SkillsInterviewDataGrid.Name = "SkillsInterviewDataGrid"
         SkillsInterviewDataGrid.RowHeadersWidth = 51
-        SkillsInterviewDataGrid.Size = New Size(652, 711)
+        SkillsInterviewDataGrid.Size = New Size(652, 645)
         SkillsInterviewDataGrid.TabIndex = 3
         ' 
         ' dtpckerDate
         ' 
-        dtpckerDate.Font = New System.Drawing.Font("Gotham", 9F)
+        dtpckerDate.Font = New System.Drawing.Font("Gotham", 9.0F)
         dtpckerDate.Location = New Point(13, 72)
         dtpckerDate.Margin = New Padding(3, 2, 3, 2)
         dtpckerDate.Name = "dtpckerDate"
@@ -1386,6 +1390,10 @@ Partial Class EmployeeF
         ' PerformanceEvaluationTab
         ' 
         PerformanceEvaluationTab.BackColor = Color.FromArgb(CByte(52), CByte(37), CByte(107))
+        PerformanceEvaluationTab.Controls.Add(Label2)
+        PerformanceEvaluationTab.Controls.Add(txtOverallScore)
+        PerformanceEvaluationTab.Controls.Add(Label3)
+        PerformanceEvaluationTab.Controls.Add(txtFinalRemarks)
         PerformanceEvaluationTab.Controls.Add(btnDeletePE)
         PerformanceEvaluationTab.Controls.Add(btnSaveChangesPE)
         PerformanceEvaluationTab.Controls.Add(btnCancelPE)
@@ -1400,14 +1408,54 @@ Partial Class EmployeeF
         PerformanceEvaluationTab.Controls.Add(lblEvaluationType)
         PerformanceEvaluationTab.Controls.Add(PerformanceEvaluationDataGrid)
         PerformanceEvaluationTab.Controls.Add(dtpckerEvalutionDate)
-        PerformanceEvaluationTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        PerformanceEvaluationTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         PerformanceEvaluationTab.ForeColor = Color.Black
-        PerformanceEvaluationTab.Location = New Point(4, 34)
+        PerformanceEvaluationTab.Location = New Point(4, 67)
         PerformanceEvaluationTab.Margin = New Padding(3, 2, 3, 2)
         PerformanceEvaluationTab.Name = "PerformanceEvaluationTab"
-        PerformanceEvaluationTab.Size = New Size(884, 685)
+        PerformanceEvaluationTab.Size = New Size(884, 652)
         PerformanceEvaluationTab.TabIndex = 4
         PerformanceEvaluationTab.Text = "Performance Evaluation"
+        ' 
+        ' Label2
+        ' 
+        Label2.AutoSize = True
+        Label2.ForeColor = Color.White
+        Label2.Location = New Point(12, 459)
+        Label2.Name = "Label2"
+        Label2.Size = New Size(95, 13)
+        Label2.TabIndex = 36
+        Label2.Text = "Final Remarks "
+        ' 
+        ' txtOverallScore
+        ' 
+        txtOverallScore.Font = New System.Drawing.Font("Gotham", 9.0F)
+        txtOverallScore.Location = New Point(12, 428)
+        txtOverallScore.Margin = New Padding(3, 2, 3, 2)
+        txtOverallScore.Name = "txtOverallScore"
+        txtOverallScore.ScrollBars = ScrollBars.Horizontal
+        txtOverallScore.Size = New Size(210, 20)
+        txtOverallScore.TabIndex = 35
+        ' 
+        ' Label3
+        ' 
+        Label3.AutoSize = True
+        Label3.ForeColor = Color.White
+        Label3.Location = New Point(12, 411)
+        Label3.Name = "Label3"
+        Label3.Size = New Size(88, 13)
+        Label3.TabIndex = 34
+        Label3.Text = "Overall Score"
+        ' 
+        ' txtFinalRemarks
+        ' 
+        txtFinalRemarks.Font = New System.Drawing.Font("Gotham", 9.0F)
+        txtFinalRemarks.Location = New Point(12, 476)
+        txtFinalRemarks.Margin = New Padding(3, 2, 3, 2)
+        txtFinalRemarks.Name = "txtFinalRemarks"
+        txtFinalRemarks.ScrollBars = ScrollBars.Horizontal
+        txtFinalRemarks.Size = New Size(210, 20)
+        txtFinalRemarks.TabIndex = 37
         ' 
         ' btnDeletePE
         ' 
@@ -1416,7 +1464,7 @@ Partial Class EmployeeF
         btnDeletePE.FlatStyle = FlatStyle.Flat
         btnDeletePE.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
         btnDeletePE.ForeColor = Color.White
-        btnDeletePE.Location = New Point(121, 419)
+        btnDeletePE.Location = New Point(120, 509)
         btnDeletePE.Margin = New Padding(3, 2, 3, 2)
         btnDeletePE.Name = "btnDeletePE"
         btnDeletePE.Size = New Size(102, 36)
@@ -1432,7 +1480,7 @@ Partial Class EmployeeF
         btnSaveChangesPE.FlatStyle = FlatStyle.Flat
         btnSaveChangesPE.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
         btnSaveChangesPE.ForeColor = Color.White
-        btnSaveChangesPE.Location = New Point(13, 419)
+        btnSaveChangesPE.Location = New Point(12, 509)
         btnSaveChangesPE.Margin = New Padding(3, 2, 3, 2)
         btnSaveChangesPE.Name = "btnSaveChangesPE"
         btnSaveChangesPE.Size = New Size(102, 36)
@@ -1448,7 +1496,7 @@ Partial Class EmployeeF
         btnCancelPE.FlatStyle = FlatStyle.Flat
         btnCancelPE.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
         btnCancelPE.ForeColor = Color.White
-        btnCancelPE.Location = New Point(13, 502)
+        btnCancelPE.Location = New Point(12, 592)
         btnCancelPE.Margin = New Padding(3, 2, 3, 2)
         btnCancelPE.Name = "btnCancelPE"
         btnCancelPE.Size = New Size(209, 37)
@@ -1464,7 +1512,7 @@ Partial Class EmployeeF
         btnClearPE.FlatStyle = FlatStyle.Flat
         btnClearPE.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
         btnClearPE.ForeColor = Color.White
-        btnClearPE.Location = New Point(13, 461)
+        btnClearPE.Location = New Point(12, 551)
         btnClearPE.Margin = New Padding(3, 2, 3, 2)
         btnClearPE.Name = "btnClearPE"
         btnClearPE.Size = New Size(209, 37)
@@ -1479,7 +1527,7 @@ Partial Class EmployeeF
         btnAddPE.FlatStyle = FlatStyle.Flat
         btnAddPE.Font = New System.Drawing.Font("Gotham", 8.999999F, FontStyle.Bold)
         btnAddPE.ForeColor = Color.White
-        btnAddPE.Location = New Point(13, 419)
+        btnAddPE.Location = New Point(12, 509)
         btnAddPE.Margin = New Padding(3, 2, 3, 2)
         btnAddPE.Name = "btnAddPE"
         btnAddPE.Size = New Size(209, 37)
@@ -1489,8 +1537,8 @@ Partial Class EmployeeF
         ' 
         ' txtEvaluationNotes
         ' 
-        txtEvaluationNotes.Font = New System.Drawing.Font("Gotham", 9F)
-        txtEvaluationNotes.Location = New Point(13, 176)
+        txtEvaluationNotes.Font = New System.Drawing.Font("Gotham", 9.0F)
+        txtEvaluationNotes.Location = New Point(12, 160)
         txtEvaluationNotes.Margin = New Padding(3, 2, 3, 2)
         txtEvaluationNotes.Multiline = True
         txtEvaluationNotes.Name = "txtEvaluationNotes"
@@ -1502,7 +1550,7 @@ Partial Class EmployeeF
         ' 
         lblEvaluationNotes.AutoSize = True
         lblEvaluationNotes.ForeColor = Color.White
-        lblEvaluationNotes.Location = New Point(13, 160)
+        lblEvaluationNotes.Location = New Point(12, 144)
         lblEvaluationNotes.Name = "lblEvaluationNotes"
         lblEvaluationNotes.Size = New Size(108, 13)
         lblEvaluationNotes.TabIndex = 26
@@ -1510,8 +1558,8 @@ Partial Class EmployeeF
         ' 
         ' txtEvaluator
         ' 
-        txtEvaluator.Font = New System.Drawing.Font("Gotham", 9F)
-        txtEvaluator.Location = New Point(13, 123)
+        txtEvaluator.Font = New System.Drawing.Font("Gotham", 9.0F)
+        txtEvaluator.Location = New Point(13, 118)
         txtEvaluator.Margin = New Padding(3, 2, 3, 2)
         txtEvaluator.Name = "txtEvaluator"
         txtEvaluator.ScrollBars = ScrollBars.Horizontal
@@ -1522,7 +1570,7 @@ Partial Class EmployeeF
         ' 
         lblEvaluator.AutoSize = True
         lblEvaluator.ForeColor = Color.White
-        lblEvaluator.Location = New Point(13, 106)
+        lblEvaluator.Location = New Point(13, 101)
         lblEvaluator.Name = "lblEvaluator"
         lblEvaluator.Size = New Size(64, 13)
         lblEvaluator.TabIndex = 23
@@ -1540,7 +1588,7 @@ Partial Class EmployeeF
         ' 
         ' txtEvaluationType
         ' 
-        txtEvaluationType.Font = New System.Drawing.Font("Gotham", 9F)
+        txtEvaluationType.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtEvaluationType.Location = New Point(13, 25)
         txtEvaluationType.Margin = New Padding(3, 2, 3, 2)
         txtEvaluationType.Name = "txtEvaluationType"
@@ -1574,12 +1622,12 @@ Partial Class EmployeeF
         PerformanceEvaluationDataGrid.Margin = New Padding(3, 2, 3, 2)
         PerformanceEvaluationDataGrid.Name = "PerformanceEvaluationDataGrid"
         PerformanceEvaluationDataGrid.RowHeadersWidth = 51
-        PerformanceEvaluationDataGrid.Size = New Size(652, 711)
+        PerformanceEvaluationDataGrid.Size = New Size(652, 645)
         PerformanceEvaluationDataGrid.TabIndex = 4
         ' 
         ' dtpckerEvalutionDate
         ' 
-        dtpckerEvalutionDate.Font = New System.Drawing.Font("Gotham", 9F)
+        dtpckerEvalutionDate.Font = New System.Drawing.Font("Gotham", 9.0F)
         dtpckerEvalutionDate.Location = New Point(13, 73)
         dtpckerEvalutionDate.Margin = New Padding(3, 2, 3, 2)
         dtpckerEvalutionDate.Name = "dtpckerEvalutionDate"
@@ -1608,18 +1656,18 @@ Partial Class EmployeeF
         SkillsTriageTab.Controls.Add(SkillsTriageDataGrid)
         SkillsTriageTab.Controls.Add(dtpckerStartDateT)
         SkillsTriageTab.Controls.Add(dtpckerDateClose)
-        SkillsTriageTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        SkillsTriageTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         SkillsTriageTab.ForeColor = Color.Black
-        SkillsTriageTab.Location = New Point(4, 34)
+        SkillsTriageTab.Location = New Point(4, 67)
         SkillsTriageTab.Margin = New Padding(3, 2, 3, 2)
         SkillsTriageTab.Name = "SkillsTriageTab"
-        SkillsTriageTab.Size = New Size(884, 685)
+        SkillsTriageTab.Size = New Size(884, 652)
         SkillsTriageTab.TabIndex = 5
         SkillsTriageTab.Text = "Skills Triage"
         ' 
         ' txtDeliberationScore
         ' 
-        txtDeliberationScore.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDeliberationScore.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDeliberationScore.Location = New Point(13, 263)
         txtDeliberationScore.Margin = New Padding(3, 2, 3, 2)
         txtDeliberationScore.Name = "txtDeliberationScore"
@@ -1639,7 +1687,7 @@ Partial Class EmployeeF
         ' 
         ' txtDeliberationNotes
         ' 
-        txtDeliberationNotes.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDeliberationNotes.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDeliberationNotes.Location = New Point(13, 308)
         txtDeliberationNotes.Margin = New Padding(3, 2, 3, 2)
         txtDeliberationNotes.Multiline = True
@@ -1738,7 +1786,7 @@ Partial Class EmployeeF
         ' 
         ' txtDetailsOfConcern
         ' 
-        txtDetailsOfConcern.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDetailsOfConcern.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDetailsOfConcern.Location = New Point(13, 176)
         txtDetailsOfConcern.Margin = New Padding(3, 2, 3, 2)
         txtDetailsOfConcern.Multiline = True
@@ -1779,7 +1827,7 @@ Partial Class EmployeeF
         ' 
         ' txtConcernBy
         ' 
-        txtConcernBy.Font = New System.Drawing.Font("Gotham", 9F)
+        txtConcernBy.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtConcernBy.Location = New Point(13, 25)
         txtConcernBy.Margin = New Padding(3, 2, 3, 2)
         txtConcernBy.Name = "txtConcernBy"
@@ -1813,12 +1861,12 @@ Partial Class EmployeeF
         SkillsTriageDataGrid.Margin = New Padding(3, 2, 3, 2)
         SkillsTriageDataGrid.Name = "SkillsTriageDataGrid"
         SkillsTriageDataGrid.RowHeadersWidth = 51
-        SkillsTriageDataGrid.Size = New Size(652, 711)
+        SkillsTriageDataGrid.Size = New Size(652, 645)
         SkillsTriageDataGrid.TabIndex = 5
         ' 
         ' dtpckerStartDateT
         ' 
-        dtpckerStartDateT.Font = New System.Drawing.Font("Gotham", 9F)
+        dtpckerStartDateT.Font = New System.Drawing.Font("Gotham", 9.0F)
         dtpckerStartDateT.Location = New Point(13, 73)
         dtpckerStartDateT.Margin = New Padding(3, 2, 3, 2)
         dtpckerStartDateT.Name = "dtpckerStartDateT"
@@ -1828,7 +1876,7 @@ Partial Class EmployeeF
         ' 
         ' dtpckerDateClose
         ' 
-        dtpckerDateClose.Font = New System.Drawing.Font("Gotham", 9F)
+        dtpckerDateClose.Font = New System.Drawing.Font("Gotham", 9.0F)
         dtpckerDateClose.Location = New Point(13, 126)
         dtpckerDateClose.Margin = New Padding(3, 2, 3, 2)
         dtpckerDateClose.Name = "dtpckerDateClose"
@@ -1853,12 +1901,12 @@ Partial Class EmployeeF
         TrainingHistoryTab.Controls.Add(TrainingHistoryDataGrid)
         TrainingHistoryTab.Controls.Add(btnAddTH)
         TrainingHistoryTab.Controls.Add(dtpckerCompletion)
-        TrainingHistoryTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        TrainingHistoryTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         TrainingHistoryTab.ForeColor = Color.Black
-        TrainingHistoryTab.Location = New Point(4, 34)
+        TrainingHistoryTab.Location = New Point(4, 67)
         TrainingHistoryTab.Margin = New Padding(3, 2, 3, 2)
         TrainingHistoryTab.Name = "TrainingHistoryTab"
-        TrainingHistoryTab.Size = New Size(884, 685)
+        TrainingHistoryTab.Size = New Size(884, 652)
         TrainingHistoryTab.TabIndex = 6
         TrainingHistoryTab.Text = "Training History"
         ' 
@@ -1927,7 +1975,7 @@ Partial Class EmployeeF
         ' 
         ' txtGrade
         ' 
-        txtGrade.Font = New System.Drawing.Font("Gotham", 9F)
+        txtGrade.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtGrade.Location = New Point(13, 394)
         txtGrade.Margin = New Padding(3, 2, 3, 2)
         txtGrade.Name = "txtGrade"
@@ -1957,7 +2005,7 @@ Partial Class EmployeeF
         ' 
         ' txtFacilitator
         ' 
-        txtFacilitator.Font = New System.Drawing.Font("Gotham", 9F)
+        txtFacilitator.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtFacilitator.Location = New Point(13, 239)
         txtFacilitator.Margin = New Padding(3, 2, 3, 2)
         txtFacilitator.Multiline = True
@@ -1978,7 +2026,7 @@ Partial Class EmployeeF
         ' 
         ' txtTopicOrModuleTitle
         ' 
-        txtTopicOrModuleTitle.Font = New System.Drawing.Font("Gotham", 9F)
+        txtTopicOrModuleTitle.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtTopicOrModuleTitle.Location = New Point(13, 25)
         txtTopicOrModuleTitle.Margin = New Padding(3, 2, 3, 2)
         txtTopicOrModuleTitle.Multiline = True
@@ -2013,7 +2061,7 @@ Partial Class EmployeeF
         TrainingHistoryDataGrid.Margin = New Padding(3, 2, 3, 2)
         TrainingHistoryDataGrid.Name = "TrainingHistoryDataGrid"
         TrainingHistoryDataGrid.RowHeadersWidth = 51
-        TrainingHistoryDataGrid.Size = New Size(652, 711)
+        TrainingHistoryDataGrid.Size = New Size(652, 645)
         TrainingHistoryDataGrid.TabIndex = 6
         ' 
         ' btnAddTH
@@ -2033,7 +2081,7 @@ Partial Class EmployeeF
         ' 
         ' dtpckerCompletion
         ' 
-        dtpckerCompletion.Font = New System.Drawing.Font("Gotham", 9F)
+        dtpckerCompletion.Font = New System.Drawing.Font("Gotham", 9.0F)
         dtpckerCompletion.Location = New Point(13, 346)
         dtpckerCompletion.Margin = New Padding(3, 2, 3, 2)
         dtpckerCompletion.Name = "dtpckerCompletion"
@@ -2064,7 +2112,7 @@ Partial Class EmployeeF
         CertificationsAndLicenses.Controls.Add(btnAddCL)
         CertificationsAndLicenses.Controls.Add(dtpckerGrantDate)
         CertificationsAndLicenses.Controls.Add(dtpckerExpiryDate)
-        CertificationsAndLicenses.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        CertificationsAndLicenses.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         CertificationsAndLicenses.ForeColor = Color.Black
         CertificationsAndLicenses.Location = New Point(4, 67)
         CertificationsAndLicenses.Margin = New Padding(3, 2, 3, 2)
@@ -2075,7 +2123,7 @@ Partial Class EmployeeF
         ' 
         ' txtChapter
         ' 
-        txtChapter.Font = New System.Drawing.Font("Gotham", 9F)
+        txtChapter.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtChapter.Location = New Point(13, 163)
         txtChapter.Margin = New Padding(3, 2, 3, 2)
         txtChapter.Name = "txtChapter"
@@ -2158,7 +2206,7 @@ Partial Class EmployeeF
         ' 
         ' txtLicenseNumber
         ' 
-        txtLicenseNumber.Font = New System.Drawing.Font("Gotham", 9F)
+        txtLicenseNumber.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtLicenseNumber.Location = New Point(13, 289)
         txtLicenseNumber.Margin = New Padding(3, 2, 3, 2)
         txtLicenseNumber.Name = "txtLicenseNumber"
@@ -2178,7 +2226,7 @@ Partial Class EmployeeF
         ' 
         ' txtStatus
         ' 
-        txtStatus.Font = New System.Drawing.Font("Gotham", 9F)
+        txtStatus.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtStatus.Location = New Point(13, 445)
         txtStatus.Margin = New Padding(3, 2, 3, 2)
         txtStatus.Name = "txtStatus"
@@ -2218,7 +2266,7 @@ Partial Class EmployeeF
         ' 
         ' txtCertificateName
         ' 
-        txtCertificateName.Font = New System.Drawing.Font("Gotham", 9F)
+        txtCertificateName.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtCertificateName.Location = New Point(13, 25)
         txtCertificateName.Margin = New Padding(3, 2, 3, 2)
         txtCertificateName.Multiline = True
@@ -2258,7 +2306,7 @@ Partial Class EmployeeF
         ' 
         ' txtProvider
         ' 
-        txtProvider.Font = New System.Drawing.Font("Gotham", 9F)
+        txtProvider.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtProvider.Location = New Point(13, 212)
         txtProvider.Margin = New Padding(3, 2, 3, 2)
         txtProvider.Multiline = True
@@ -2294,7 +2342,7 @@ Partial Class EmployeeF
         ' 
         ' dtpckerGrantDate
         ' 
-        dtpckerGrantDate.Font = New System.Drawing.Font("Gotham", 9F)
+        dtpckerGrantDate.Font = New System.Drawing.Font("Gotham", 9.0F)
         dtpckerGrantDate.Location = New Point(13, 340)
         dtpckerGrantDate.Margin = New Padding(3, 2, 3, 2)
         dtpckerGrantDate.Name = "dtpckerGrantDate"
@@ -2304,7 +2352,7 @@ Partial Class EmployeeF
         ' 
         ' dtpckerExpiryDate
         ' 
-        dtpckerExpiryDate.Font = New System.Drawing.Font("Gotham", 9F)
+        dtpckerExpiryDate.Font = New System.Drawing.Font("Gotham", 9.0F)
         dtpckerExpiryDate.Location = New Point(13, 394)
         dtpckerExpiryDate.Margin = New Padding(3, 2, 3, 2)
         dtpckerExpiryDate.Name = "dtpckerExpiryDate"
@@ -2327,7 +2375,7 @@ Partial Class EmployeeF
         TrainingPlanTab.Controls.Add(TrainingPlanDataGrid)
         TrainingPlanTab.Controls.Add(btnAddP)
         TrainingPlanTab.Controls.Add(txtTargetDate)
-        TrainingPlanTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        TrainingPlanTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         TrainingPlanTab.ForeColor = Color.Black
         TrainingPlanTab.Location = New Point(4, 67)
         TrainingPlanTab.Margin = New Padding(3, 2, 3, 2)
@@ -2348,7 +2396,7 @@ Partial Class EmployeeF
         ' 
         ' txtTopicOrModuleName
         ' 
-        txtTopicOrModuleName.Font = New System.Drawing.Font("Gotham", 9F)
+        txtTopicOrModuleName.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtTopicOrModuleName.Location = New Point(13, 25)
         txtTopicOrModuleName.Margin = New Padding(3, 2, 3, 2)
         txtTopicOrModuleName.Multiline = True
@@ -2369,7 +2417,7 @@ Partial Class EmployeeF
         ' 
         ' txtFacilitatorP
         ' 
-        txtFacilitatorP.Font = New System.Drawing.Font("Gotham", 9F)
+        txtFacilitatorP.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtFacilitatorP.Location = New Point(13, 236)
         txtFacilitatorP.Margin = New Padding(3, 2, 3, 2)
         txtFacilitatorP.Multiline = True
@@ -2487,7 +2535,7 @@ Partial Class EmployeeF
         ' 
         ' txtTargetDate
         ' 
-        txtTargetDate.Font = New System.Drawing.Font("Gotham", 9F)
+        txtTargetDate.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtTargetDate.Location = New Point(13, 394)
         txtTargetDate.Margin = New Padding(3, 2, 3, 2)
         txtTargetDate.Name = "txtTargetDate"
@@ -2514,7 +2562,7 @@ Partial Class EmployeeF
         TrainingProgramsTab.Controls.Add(lblProgramTitle)
         TrainingProgramsTab.Controls.Add(TrainingProgramsDataGrid)
         TrainingProgramsTab.Controls.Add(btnAddTPr)
-        TrainingProgramsTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        TrainingProgramsTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         TrainingProgramsTab.ForeColor = Color.Black
         TrainingProgramsTab.Location = New Point(4, 67)
         TrainingProgramsTab.Margin = New Padding(3, 2, 3, 2)
@@ -2525,7 +2573,7 @@ Partial Class EmployeeF
         ' 
         ' txtCompletionDateTPr
         ' 
-        txtCompletionDateTPr.Font = New System.Drawing.Font("Gotham", 9F)
+        txtCompletionDateTPr.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtCompletionDateTPr.Location = New Point(13, 123)
         txtCompletionDateTPr.Margin = New Padding(3, 2, 3, 2)
         txtCompletionDateTPr.Name = "txtCompletionDateTPr"
@@ -2535,7 +2583,7 @@ Partial Class EmployeeF
         ' 
         ' txtStartDateTPr
         ' 
-        txtStartDateTPr.Font = New System.Drawing.Font("Gotham", 9F)
+        txtStartDateTPr.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtStartDateTPr.Location = New Point(13, 74)
         txtStartDateTPr.Margin = New Padding(3, 2, 3, 2)
         txtStartDateTPr.Name = "txtStartDateTPr"
@@ -2608,7 +2656,7 @@ Partial Class EmployeeF
         ' 
         ' txtDeliberationScoreTPr
         ' 
-        txtDeliberationScoreTPr.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDeliberationScoreTPr.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDeliberationScoreTPr.Location = New Point(13, 176)
         txtDeliberationScoreTPr.Margin = New Padding(3, 2, 3, 2)
         txtDeliberationScoreTPr.Name = "txtDeliberationScoreTPr"
@@ -2628,7 +2676,7 @@ Partial Class EmployeeF
         ' 
         ' txtDeliberationNotesTPr
         ' 
-        txtDeliberationNotesTPr.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDeliberationNotesTPr.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDeliberationNotesTPr.Location = New Point(13, 230)
         txtDeliberationNotesTPr.Margin = New Padding(3, 2, 3, 2)
         txtDeliberationNotesTPr.Multiline = True
@@ -2669,7 +2717,7 @@ Partial Class EmployeeF
         ' 
         ' txtProgramTitle
         ' 
-        txtProgramTitle.Font = New System.Drawing.Font("Gotham", 9F)
+        txtProgramTitle.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtProgramTitle.Location = New Point(13, 25)
         txtProgramTitle.Margin = New Padding(3, 2, 3, 2)
         txtProgramTitle.Name = "txtProgramTitle"
@@ -2736,7 +2784,7 @@ Partial Class EmployeeF
         WebinarsAttendedTab.Controls.Add(lblDateW)
         WebinarsAttendedTab.Controls.Add(txtCPDUnits)
         WebinarsAttendedTab.Controls.Add(btnAddW)
-        WebinarsAttendedTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        WebinarsAttendedTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         WebinarsAttendedTab.ForeColor = Color.Black
         WebinarsAttendedTab.Location = New Point(4, 67)
         WebinarsAttendedTab.Margin = New Padding(3, 2, 3, 2)
@@ -2747,7 +2795,7 @@ Partial Class EmployeeF
         ' 
         ' txtDateW
         ' 
-        txtDateW.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDateW.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDateW.Location = New Point(13, 340)
         txtDateW.Margin = New Padding(3, 2, 3, 2)
         txtDateW.Name = "txtDateW"
@@ -2820,7 +2868,7 @@ Partial Class EmployeeF
         ' 
         ' txtWebinarTitle
         ' 
-        txtWebinarTitle.Font = New System.Drawing.Font("Gotham", 9F)
+        txtWebinarTitle.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtWebinarTitle.Location = New Point(13, 25)
         txtWebinarTitle.Margin = New Padding(3, 2, 3, 2)
         txtWebinarTitle.Multiline = True
@@ -2880,7 +2928,7 @@ Partial Class EmployeeF
         ' 
         ' txtCPDUnits
         ' 
-        txtCPDUnits.Font = New System.Drawing.Font("Gotham", 9F)
+        txtCPDUnits.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtCPDUnits.Location = New Point(13, 389)
         txtCPDUnits.Margin = New Padding(3, 2, 3, 2)
         txtCPDUnits.Name = "txtCPDUnits"
@@ -2922,7 +2970,7 @@ Partial Class EmployeeF
         ClientFeedbackTab.Controls.Add(txtAccountManager)
         ClientFeedbackTab.Controls.Add(ClientFeedbackDataGrid)
         ClientFeedbackTab.Controls.Add(btnAddCF)
-        ClientFeedbackTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        ClientFeedbackTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         ClientFeedbackTab.ForeColor = Color.Black
         ClientFeedbackTab.Location = New Point(4, 67)
         ClientFeedbackTab.Name = "ClientFeedbackTab"
@@ -2932,7 +2980,7 @@ Partial Class EmployeeF
         ' 
         ' txtFeedbackDate
         ' 
-        txtFeedbackDate.Font = New System.Drawing.Font("Gotham", 9F)
+        txtFeedbackDate.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtFeedbackDate.Location = New Point(13, 126)
         txtFeedbackDate.Name = "txtFeedbackDate"
         txtFeedbackDate.ScrollBars = ScrollBars.Horizontal
@@ -3010,7 +3058,7 @@ Partial Class EmployeeF
         ' 
         ' txtStaffPerformanceRating
         ' 
-        txtStaffPerformanceRating.Font = New System.Drawing.Font("Gotham", 9F)
+        txtStaffPerformanceRating.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtStaffPerformanceRating.Location = New Point(13, 389)
         txtStaffPerformanceRating.Name = "txtStaffPerformanceRating"
         txtStaffPerformanceRating.ScrollBars = ScrollBars.Horizontal
@@ -3019,7 +3067,7 @@ Partial Class EmployeeF
         ' 
         ' txtFeedbackSummary
         ' 
-        txtFeedbackSummary.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        txtFeedbackSummary.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         txtFeedbackSummary.Location = New Point(13, 176)
         txtFeedbackSummary.Margin = New Padding(3, 2, 3, 2)
         txtFeedbackSummary.Multiline = True
@@ -3060,7 +3108,7 @@ Partial Class EmployeeF
         ' 
         ' txtClientPOC
         ' 
-        txtClientPOC.Font = New System.Drawing.Font("Gotham", 9F)
+        txtClientPOC.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtClientPOC.Location = New Point(13, 73)
         txtClientPOC.Name = "txtClientPOC"
         txtClientPOC.ScrollBars = ScrollBars.Horizontal
@@ -3079,7 +3127,7 @@ Partial Class EmployeeF
         ' 
         ' txtAccountManager
         ' 
-        txtAccountManager.Font = New System.Drawing.Font("Gotham", 9F)
+        txtAccountManager.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtAccountManager.Location = New Point(13, 25)
         txtAccountManager.Name = "txtAccountManager"
         txtAccountManager.ScrollBars = ScrollBars.Horizontal
@@ -3138,7 +3186,7 @@ Partial Class EmployeeF
         SelfAssessmentTab.Controls.Add(l)
         SelfAssessmentTab.Controls.Add(txtPersonalPerformanceRating)
         SelfAssessmentTab.Controls.Add(btnAddSA)
-        SelfAssessmentTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        SelfAssessmentTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         SelfAssessmentTab.ForeColor = Color.Black
         SelfAssessmentTab.Location = New Point(4, 67)
         SelfAssessmentTab.Name = "SelfAssessmentTab"
@@ -3148,7 +3196,7 @@ Partial Class EmployeeF
         ' 
         ' txtFeedbackDateSA
         ' 
-        txtFeedbackDateSA.Font = New System.Drawing.Font("Gotham", 9F)
+        txtFeedbackDateSA.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtFeedbackDateSA.Location = New Point(13, 75)
         txtFeedbackDateSA.Margin = New Padding(3, 2, 3, 2)
         txtFeedbackDateSA.Name = "txtFeedbackDateSA"
@@ -3227,7 +3275,7 @@ Partial Class EmployeeF
         ' 
         ' txtTBRRating
         ' 
-        txtTBRRating.Font = New System.Drawing.Font("Gotham", 9F)
+        txtTBRRating.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtTBRRating.Location = New Point(13, 229)
         txtTBRRating.Name = "txtTBRRating"
         txtTBRRating.ScrollBars = ScrollBars.Horizontal
@@ -3236,7 +3284,7 @@ Partial Class EmployeeF
         ' 
         ' txtClientRating
         ' 
-        txtClientRating.Font = New System.Drawing.Font("Gotham", 9F)
+        txtClientRating.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtClientRating.Location = New Point(13, 176)
         txtClientRating.Margin = New Padding(3, 2, 3, 2)
         txtClientRating.Name = "txtClientRating"
@@ -3266,7 +3314,7 @@ Partial Class EmployeeF
         ' 
         ' txtAccountManagerSA
         ' 
-        txtAccountManagerSA.Font = New System.Drawing.Font("Gotham", 9F)
+        txtAccountManagerSA.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtAccountManagerSA.Location = New Point(13, 25)
         txtAccountManagerSA.Name = "txtAccountManagerSA"
         txtAccountManagerSA.ScrollBars = ScrollBars.Horizontal
@@ -3289,7 +3337,7 @@ Partial Class EmployeeF
         SelfAssessmentDataGrid.Margin = New Padding(3, 2, 3, 2)
         SelfAssessmentDataGrid.Name = "SelfAssessmentDataGrid"
         SelfAssessmentDataGrid.RowHeadersWidth = 51
-        SelfAssessmentDataGrid.Size = New Size(1559, 678)
+        SelfAssessmentDataGrid.Size = New Size(652, 645)
         SelfAssessmentDataGrid.TabIndex = 10
         ' 
         ' lblFeedbackDateSA
@@ -3314,7 +3362,7 @@ Partial Class EmployeeF
         ' 
         ' txtPersonalPerformanceRating
         ' 
-        txtPersonalPerformanceRating.Font = New System.Drawing.Font("Gotham", 9F)
+        txtPersonalPerformanceRating.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtPersonalPerformanceRating.Location = New Point(13, 123)
         txtPersonalPerformanceRating.Name = "txtPersonalPerformanceRating"
         txtPersonalPerformanceRating.ScrollBars = ScrollBars.Horizontal
@@ -3352,7 +3400,7 @@ Partial Class EmployeeF
         CompetencyCertificationsTab.Controls.Add(CompetencyCertificationDataGrid)
         CompetencyCertificationsTab.Controls.Add(txtDeliberationSummary)
         CompetencyCertificationsTab.Controls.Add(lblDeliberationSummary)
-        CompetencyCertificationsTab.Font = New System.Drawing.Font("Gotham", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        CompetencyCertificationsTab.Font = New System.Drawing.Font("Gotham", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         CompetencyCertificationsTab.ForeColor = Color.Black
         CompetencyCertificationsTab.Location = New Point(4, 67)
         CompetencyCertificationsTab.Name = "CompetencyCertificationsTab"
@@ -3362,7 +3410,7 @@ Partial Class EmployeeF
         ' 
         ' txtGrantDateCC
         ' 
-        txtGrantDateCC.Font = New System.Drawing.Font("Gotham", 9F)
+        txtGrantDateCC.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtGrantDateCC.Location = New Point(13, 126)
         txtGrantDateCC.Margin = New Padding(3, 2, 3, 2)
         txtGrantDateCC.Name = "txtGrantDateCC"
@@ -3445,7 +3493,7 @@ Partial Class EmployeeF
         ' 
         ' txtOverallGrade
         ' 
-        txtOverallGrade.Font = New System.Drawing.Font("Gotham", 9F)
+        txtOverallGrade.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtOverallGrade.Location = New Point(13, 390)
         txtOverallGrade.Margin = New Padding(3, 2, 3, 2)
         txtOverallGrade.Name = "txtOverallGrade"
@@ -3475,7 +3523,7 @@ Partial Class EmployeeF
         ' 
         ' txtCertificationName
         ' 
-        txtCertificationName.Font = New System.Drawing.Font("Gotham", 9F)
+        txtCertificationName.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtCertificationName.Location = New Point(13, 24)
         txtCertificationName.Margin = New Padding(3, 2, 3, 2)
         txtCertificationName.Multiline = True
@@ -3515,7 +3563,7 @@ Partial Class EmployeeF
         ' 
         ' txtDeliberationSummary
         ' 
-        txtDeliberationSummary.Font = New System.Drawing.Font("Gotham", 9F)
+        txtDeliberationSummary.Font = New System.Drawing.Font("Gotham", 9.0F)
         txtDeliberationSummary.Location = New Point(13, 177)
         txtDeliberationSummary.Margin = New Padding(3, 2, 3, 2)
         txtDeliberationSummary.Multiline = True
@@ -3645,7 +3693,7 @@ Partial Class EmployeeF
         txtEmployeeNumber.BackColor = Color.White
         txtEmployeeNumber.BorderStyle = BorderStyle.None
         txtEmployeeNumber.Enabled = False
-        txtEmployeeNumber.Font = New System.Drawing.Font("Gotham", 12F)
+        txtEmployeeNumber.Font = New System.Drawing.Font("Gotham", 12.0F)
         txtEmployeeNumber.ForeColor = SystemColors.WindowText
         txtEmployeeNumber.Location = New Point(36, 372)
         txtEmployeeNumber.Margin = New Padding(3, 2, 3, 2)
@@ -3670,7 +3718,7 @@ Partial Class EmployeeF
         txtEmployeeIDAdmin.BackColor = Color.White
         txtEmployeeIDAdmin.BorderStyle = BorderStyle.None
         txtEmployeeIDAdmin.Enabled = False
-        txtEmployeeIDAdmin.Font = New System.Drawing.Font("Gotham", 12F)
+        txtEmployeeIDAdmin.Font = New System.Drawing.Font("Gotham", 12.0F)
         txtEmployeeIDAdmin.ForeColor = SystemColors.WindowText
         txtEmployeeIDAdmin.Location = New Point(32, 158)
         txtEmployeeIDAdmin.Margin = New Padding(3, 2, 3, 2)
@@ -3725,7 +3773,7 @@ Partial Class EmployeeF
         txtFirstName.BackColor = Color.White
         txtFirstName.BorderStyle = BorderStyle.None
         txtFirstName.Enabled = False
-        txtFirstName.Font = New System.Drawing.Font("Gotham", 12F)
+        txtFirstName.Font = New System.Drawing.Font("Gotham", 12.0F)
         txtFirstName.ForeColor = SystemColors.WindowText
         txtFirstName.Location = New Point(33, 52)
         txtFirstName.Margin = New Padding(3, 2, 3, 2)
@@ -3780,7 +3828,7 @@ Partial Class EmployeeF
         txtLastName.BackColor = Color.White
         txtLastName.BorderStyle = BorderStyle.None
         txtLastName.Enabled = False
-        txtLastName.Font = New System.Drawing.Font("Gotham", 12F)
+        txtLastName.Font = New System.Drawing.Font("Gotham", 12.0F)
         txtLastName.ForeColor = SystemColors.WindowText
         txtLastName.Location = New Point(32, 104)
         txtLastName.Margin = New Padding(3, 2, 3, 2)
@@ -3800,7 +3848,7 @@ Partial Class EmployeeF
         ' 
         ' EmployeeF
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
         AutoScaleMode = AutoScaleMode.Font
         AutoSize = True
         AutoSizeMode = AutoSizeMode.GrowAndShrink
@@ -4142,4 +4190,8 @@ Partial Class EmployeeF
     Friend WithEvents btnExportPDF As Button
     Friend WithEvents btnExportExcelSheets As Button
     Friend WithEvents btnExportToWord As Button
+    Friend WithEvents Label2 As Label
+    Friend WithEvents txtOverallScore As TextBox
+    Friend WithEvents Label3 As Label
+    Friend WithEvents txtFinalRemarks As TextBox
 End Class

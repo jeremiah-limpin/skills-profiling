@@ -544,7 +544,7 @@ Public Class EmployeeListF
                     {"Task_Profile$", {"Task_ID", "Employee_Number", "Task_Name", "Category", "POC", "Description"}},
                     {"Software_Tools$", {"Software_ID", "Employee_Number", "Software_or_Tool", "Used_For"}},
                     {"Skills_Interview$", {"Skills_ID", "Employee_Number", "Role_or_Designation", "Date_", "Interviewer", "Assessment_Notes"}},
-                    {"Performance_Evaluation$", {"Performance_ID", "Employee_Number", "Evaluation_Type", "Evaluation_Date", "Evaluator", "Evaluation_Notes"}},
+                    {"Performance_Evaluation$", {"Performance_ID", "Employee_Number", "Evaluation_Type", "Evaluation_Date", "Evaluator", "Evaluation_Notes", "Overall_Score", "Final_Remarks"}},
                     {"Skills_Triage$", {"Triage_ID", "Employee_Number", "Concern_By", "Start_Date", "Date_Closed", "Details_of_Concern", "Deliberation_Score", "Deliberation_Notes"}},
                     {"Training_History$", {"Training_ID", "Employee_Number", "Topic_or_Module_Title", "Facilitator", "Completion_Date", "Grade"}},
                     {"Certifications_and_Licenses$", {"Certification_ID", "Employee_Number", "Certification_Name", "Chapter", "Provider", "License_Number", "Grant_Date", "Expiry_Date", "Status"}},

@@ -15,7 +15,7 @@ Public Class PerformanceEvaluationClass
         Try
             connection.Open()
 
-            Dim query As String = "SELECT Performance_ID, Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
+            Dim query As String = "SELECT Performance_ID, Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes, Overall_Score, Final_Remarks FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
 
             Dim adapter As New OleDbDataAdapter(query, connection)
             adapter.SelectCommand.Parameters.AddWithValue("@EmployeeNumber", employeeNumber)
@@ -34,7 +34,7 @@ Public Class PerformanceEvaluationClass
             End If
         End Try
     End Sub
-    Public Sub AddDetailsToDatabase(ByRef PerformanceEvaluationDataGrid As DataGridView, ByRef txtEmployeeNumber As TextBox, ByRef txtEvaluationType As TextBox, ByRef dtpckerEvaluationDate As TextBox, ByRef txtEvaluator As TextBox, ByRef txtEvaluationNotes As TextBox, ByRef employeeForm As EmployeeF)
+    Public Sub AddDetailsToDatabase(ByRef PerformanceEvaluationDataGrid As DataGridView, ByRef txtEmployeeNumber As TextBox, ByRef txtEvaluationType As TextBox, ByRef dtpckerEvaluationDate As TextBox, ByRef txtEvaluator As TextBox, ByRef txtEvaluationNotes As TextBox, ByRef txtOverallScore As TextBox, ByRef txtFinalRemarks As TextBox, ByRef employeeForm As EmployeeF)
         connection.Close()
 
         If String.IsNullOrWhiteSpace(txtEvaluationType.Text) Or String.IsNullOrWhiteSpace(txtEvaluator.Text) Or String.IsNullOrWhiteSpace(txtEvaluationNotes.Text) Then
@@ -53,6 +53,8 @@ Public Class PerformanceEvaluationClass
             insertCmd.Parameters.AddWithValue("@Evaluation_Date", dtpckerEvaluationDate.Text)
             insertCmd.Parameters.AddWithValue("@Evaluator", txtEvaluator.Text)
             insertCmd.Parameters.AddWithValue("@Evaluation_Notes", txtEvaluationNotes.Text)
+            insertCmd.Parameters.AddWithValue("@Overall_Score", txtOverallScore.Text)
+            insertCmd.Parameters.AddWithValue("@Final_Remarks", txtFinalRemarks.Text)
 
             insertCmd.ExecuteNonQuery()
 
@@ -71,7 +73,7 @@ Public Class PerformanceEvaluationClass
             End If
         End Try
     End Sub
-    Public Sub UpdateDetailsInDatabase(ByRef PerformanceEvaluationDataGrid As DataGridView, ByRef txtEvaluationType As TextBox, ByRef dtpckerEvaluationDate As TextBox, ByRef txtEvaluator As TextBox, ByRef txtEvaluationNotes As TextBox, ByRef employeeForm As EmployeeF)
+    Public Sub UpdateDetailsInDatabase(ByRef PerformanceEvaluationDataGrid As DataGridView, ByRef txtEvaluationType As TextBox, ByRef dtpckerEvaluationDate As TextBox, ByRef txtEvaluator As TextBox, ByRef txtEvaluationNotes As TextBox, ByRef txtOverallScore As TextBox, ByRef txtFinalRemarks As TextBox, ByRef employeeForm As EmployeeF)
         connection.Close()
 
         Try
@@ -88,8 +90,10 @@ Public Class PerformanceEvaluationClass
                 Dim evaluationDate As String = dtpckerEvaluationDate.Text
                 Dim evaluator As String = txtEvaluator.Text
                 Dim evaluationNotes As String = txtEvaluationNotes.Text
+                Dim overallScore As String = txtOverallScore.Text
+                Dim finalRemarks As String = txtFinalRemarks.Text
 
-                Dim updateQuery As String = "UPDATE Performance_Evaluation SET Evaluation_Type = @Evaluation_Type, Evaluation_Date = @Evaluation_Date, Evaluator = @Evaluator, Evaluation_Notes = @Evaluation_Notes WHERE Performance_ID = @Performance_ID"
+                Dim updateQuery As String = "UPDATE Performance_Evaluation SET Evaluation_Type = @Evaluation_Type, Evaluation_Date = @Evaluation_Date, Evaluator = @Evaluator, Evaluation_Notes = @Evaluation_Notes, Overall_Score = @Overall_Score, Final_Remarks = @Final_Remarks WHERE Performance_ID = @Performance_ID"
 
                 Dim updateCmd As New OleDbCommand(updateQuery, connection)
 
@@ -97,6 +101,8 @@ Public Class PerformanceEvaluationClass
                 updateCmd.Parameters.AddWithValue("@Evaluation_Date", evaluationDate)
                 updateCmd.Parameters.AddWithValue("@Evaluator", evaluator)
                 updateCmd.Parameters.AddWithValue("@Evaluation_Notes", evaluationNotes)
+                updateCmd.Parameters.AddWithValue("@Overall_Score", overallScore)
+                updateCmd.Parameters.AddWithValue("@Final_Remarks", finalRemarks)
                 updateCmd.Parameters.AddWithValue("@Performance_ID", performanceID)
 
                 updateCmd.ExecuteNonQuery()

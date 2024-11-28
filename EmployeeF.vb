@@ -278,7 +278,7 @@ Public Class EmployeeF
 #Region "Performance Evaluation Formatting"
     Public Sub ApplyPerformnceFormatting()
 
-        Dim query As String = "SELECT Performance_ID, Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
+        Dim query As String = "SELECT Performance_ID, Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes, Overall_Score, Final_Remarks FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
 
         Dim adapter As New OleDbDataAdapter(query, connection)
         adapter.SelectCommand.Parameters.AddWithValue("@EmployeeNumber", employeeNumber)
@@ -1524,11 +1524,11 @@ Public Class EmployeeF
         performanceEvaluation.HideButtons()
     End Sub
     Private Sub btnSaveChangesPE_Click(sender As Object, e As EventArgs) Handles btnSaveChangesPE.Click
-        performanceEvaluation.UpdateDetailsInDatabase(PerformanceEvaluationDataGrid, txtEvaluationType, dtpckerEvalutionDate, txtEvaluator, txtEvaluationNotes, Me)
+        performanceEvaluation.UpdateDetailsInDatabase(PerformanceEvaluationDataGrid, txtEvaluationType, dtpckerEvalutionDate, txtEvaluator, txtEvaluationNotes, txtOverallScore, txtFinalRemarks, Me)
         ApplyPerformnceFormatting()
     End Sub
     Private Sub btnAddPE_Click(sender As Object, e As EventArgs) Handles btnAddPE.Click
-        performanceEvaluation.AddDetailsToDatabase(PerformanceEvaluationDataGrid, txtEmployeeNumber, txtEvaluationType, dtpckerEvalutionDate, txtEvaluator, txtEvaluationNotes, Me)
+        performanceEvaluation.AddDetailsToDatabase(PerformanceEvaluationDataGrid, txtEmployeeNumber, txtEvaluationType, dtpckerEvalutionDate, txtEvaluator, txtEvaluationNotes, txtOverallScore, txtFinalRemarks, Me)
         ApplyPerformnceFormatting()
     End Sub
 
@@ -1547,11 +1547,15 @@ Public Class EmployeeF
             Dim evaluationDate = PerformanceEvaluationDataGrid.SelectedRows(0).Cells("Evaluation_Date").Value
             Dim evaluator = PerformanceEvaluationDataGrid.SelectedRows(0).Cells("Evaluator").Value
             Dim evaluationNotes = PerformanceEvaluationDataGrid.SelectedRows(0).Cells("Evaluation_Notes").Value
+            Dim overallScore = PerformanceEvaluationDataGrid.SelectedRows(0).Cells("Overall_Score").Value
+            Dim finalRemarks = PerformanceEvaluationDataGrid.SelectedRows(0).Cells("Final_Remarks").Value
 
             txtEvaluationType.Text = evaluationType.ToString
             dtpckerEvalutionDate.Text = evaluationDate.ToString
             txtEvaluator.Text = evaluator.ToString
             txtEvaluationNotes.Text = evaluationNotes.ToString
+            txtOverallScore.Text = overallScore.ToString
+            txtFinalRemarks.Text = finalRemarks.ToString
 
             performanceEvaluation.ShowButtons()
         End If
@@ -2185,7 +2189,7 @@ Public Class EmployeeF
         wordDoc.Paragraphs.Add()
 
         ' performance evaluation
-        Dim performanceEvaluationQuery As String = "SELECT Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
+        Dim performanceEvaluationQuery As String = "SELECT Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes, Overall_Score, Final_Remarks FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
         ExportTableToWord(connection, wordDoc, performanceEvaluationQuery, "Performance Evaluation", employeeNumber)
 
         Dim performanceEvaluationTable As Word.Table = wordDoc.Tables(wordDoc.Tables.Count)
@@ -2879,7 +2883,9 @@ Public Class EmployeeF
             mergedRange.Cells(1, 1).Value = value
         Else
             ' If not merged, set the value normally
+            targetCell.NumberFormat = "@"
             targetCell.Value = value
+
         End If
     End Sub
     Public Sub FormatRow(worksheet As Excel.Worksheet, row As Integer)
@@ -3347,7 +3353,7 @@ Public Class EmployeeF
         ExportTableToExcelOffFormat(connection, skillsInterviewWorksheet, skillsInterviewQuery, "Skills Interview", employeeNumber, startRow)
 
         Dim performanceEvalWorksheet As Excel.Worksheet = CType(excelWorkbook.Sheets("Performance_Evaluation"), Excel.Worksheet)
-        Dim performanceEvalQuery As String = "SELECT Employee_Number, Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
+        Dim performanceEvalQuery As String = "SELECT Employee_Number, Evaluation_Type, Evaluation_Date, Evaluator, Evaluation_Notes, Overall_Score, Final_Remarks FROM Performance_Evaluation WHERE Employee_Number = @EmployeeNumber"
         ExportTableToExcelOffFormat(connection, performanceEvalWorksheet, performanceEvalQuery, "Performance Evaluation", employeeNumber, startRow)
 
         Dim skillsTriageWorksheet As Excel.Worksheet = CType(excelWorkbook.Sheets("Skills_Triage"), Excel.Worksheet)
@@ -3536,6 +3542,8 @@ Public Class EmployeeF
                     SetMergedCellValue(worksheet.Cells(currentRow, 3), reader("Evaluation_Date").ToString())
                     SetMergedCellValue(worksheet.Cells(currentRow, 4), reader("Evaluator").ToString())
                     SetMergedCellValue(worksheet.Cells(currentRow, 5), reader("Evaluation_Notes").ToString())
+                    SetMergedCellValue(worksheet.Cells(currentRow, 6), reader("Overall_Score").ToString())
+                    SetMergedCellValue(worksheet.Cells(currentRow, 7), reader("Final_Remarks").ToString())
                     worksheet.Range($"A{currentRow}:E{currentRow}").Borders.LineStyle = Excel.XlLineStyle.xlContinuous
                     worksheet.Range($"A{currentRow}:E{currentRow}").Borders.Color = RGB(0, 0, 0)
                     worksheet.Range($"A{currentRow}:E{currentRow}").HorizontalAlignment = -4108
@@ -3664,7 +3672,7 @@ Public Class EmployeeF
         connection.Close()
     End Sub
 #End Region 'Current Working Excel Format
-#End Region 'Contains WORD(UNUSED), PDF (WORKING), EXCEL (OFF FORMAT WORKING, Others have Report Format)
+#End Region 'Contains WORD(UNUSED LATEST), PDF (WORKING LATEST), EXCEL (OFF FORMAT WORKING LATEST, Others have Report Format and not updated for Performance Evaluation) 
 #Region "Others"
     'Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs)
     'Process.Start(New ProcessStartInfo With {
