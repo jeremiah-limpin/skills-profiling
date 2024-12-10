@@ -89,6 +89,7 @@ Public Class EmployeeListF
                 btnAddEmployee.Visible = False
                 deleteEmployeeBtn.Visible = False
                 btnImportProfile.Visible = False
+                btnBulkImport.Visible = False
             End If
 
             Dim query As String = ""
