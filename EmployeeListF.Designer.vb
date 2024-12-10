@@ -40,6 +40,7 @@ Partial Class EmployeeListF
         Panel1 = New Panel()
         picboxMenu = New PictureBox()
         pnlButtons = New Panel()
+        btnBulkImport = New Button()
         txtLastName = New TextBox()
         lblFirstName = New Label()
         btnEdit = New Button()
@@ -164,7 +165,7 @@ Partial Class EmployeeListF
         btnImportProfile.FlatStyle = FlatStyle.Popup
         btnImportProfile.Font = New System.Drawing.Font("Gotham", 10.8F, FontStyle.Bold)
         btnImportProfile.ForeColor = Color.White
-        btnImportProfile.Location = New Point(535, 15)
+        btnImportProfile.Location = New Point(456, 14)
         btnImportProfile.Margin = New Padding(25, 3, 3, 3)
         btnImportProfile.Name = "btnImportProfile"
         btnImportProfile.Size = New Size(136, 46)
@@ -180,7 +181,7 @@ Partial Class EmployeeListF
         btnAddEmployee.FlatStyle = FlatStyle.Popup
         btnAddEmployee.Font = New System.Drawing.Font("Gotham", 10.8F, FontStyle.Bold)
         btnAddEmployee.ForeColor = Color.White
-        btnAddEmployee.Location = New Point(190, 15)
+        btnAddEmployee.Location = New Point(111, 14)
         btnAddEmployee.Margin = New Padding(25, 2, 3, 2)
         btnAddEmployee.Name = "btnAddEmployee"
         btnAddEmployee.Size = New Size(136, 46)
@@ -195,7 +196,7 @@ Partial Class EmployeeListF
         deleteEmployeeBtn.FlatStyle = FlatStyle.Popup
         deleteEmployeeBtn.Font = New System.Drawing.Font("Gotham", 10.8F, FontStyle.Bold)
         deleteEmployeeBtn.ForeColor = Color.White
-        deleteEmployeeBtn.Location = New Point(354, 15)
+        deleteEmployeeBtn.Location = New Point(275, 14)
         deleteEmployeeBtn.Margin = New Padding(25, 2, 3, 2)
         deleteEmployeeBtn.Name = "deleteEmployeeBtn"
         deleteEmployeeBtn.Size = New Size(153, 46)
@@ -301,6 +302,7 @@ Partial Class EmployeeListF
         ' 
         pnlButtons.Anchor = AnchorStyles.Top Or AnchorStyles.Left Or AnchorStyles.Right
         pnlButtons.BackColor = Color.FromArgb(CByte(52), CByte(37), CByte(107))
+        pnlButtons.Controls.Add(btnBulkImport)
         pnlButtons.Controls.Add(btnImportProfile)
         pnlButtons.Controls.Add(deleteEmployeeBtn)
         pnlButtons.Controls.Add(btnAddEmployee)
@@ -309,6 +311,23 @@ Partial Class EmployeeListF
         pnlButtons.Name = "pnlButtons"
         pnlButtons.Size = New Size(863, 74)
         pnlButtons.TabIndex = 34
+        ' 
+        ' btnBulkImport
+        ' 
+        btnBulkImport.Anchor = AnchorStyles.Top
+        btnBulkImport.BackColor = Color.SeaGreen
+        btnBulkImport.BackgroundImageLayout = ImageLayout.None
+        btnBulkImport.FlatAppearance.BorderSize = 0
+        btnBulkImport.FlatStyle = FlatStyle.Popup
+        btnBulkImport.Font = New System.Drawing.Font("Gotham", 10.8F, FontStyle.Bold)
+        btnBulkImport.ForeColor = Color.White
+        btnBulkImport.Location = New Point(620, 14)
+        btnBulkImport.Margin = New Padding(25, 3, 3, 3)
+        btnBulkImport.Name = "btnBulkImport"
+        btnBulkImport.Size = New Size(136, 46)
+        btnBulkImport.TabIndex = 31
+        btnBulkImport.Text = "Bulk Import"
+        btnBulkImport.UseVisualStyleBackColor = False
         ' 
         ' txtLastName
         ' 
@@ -568,4 +587,5 @@ Partial Class EmployeeListF
     Friend WithEvents grpEmployeeProfile As GroupBox
     Friend WithEvents picboxReload As PictureBox
     Friend WithEvents lblReload As Label
+    Friend WithEvents btnBulkImport As Button
 End Class

@@ -4,6 +4,7 @@ Imports System.Drawing
 Imports System.Text
 Imports Excel = Microsoft.Office.Interop.Excel
 Imports System.Transactions
+Imports Windows.Win32.System
 
 
 Public Class EmployeeListF
@@ -574,22 +575,14 @@ Public Class EmployeeListF
 
                             If validColumns.Length = 0 Then Continue For
 
-
-
                             Try
                                 For Each row As DataRow In excelDataTable.Rows
                                     If validColumns.All(Function(col) Not IsDBNull(row(col)) AndAlso Not String.IsNullOrEmpty(row(col).ToString)) Then
                                         Dim employeeNumber = row("Employee_Number").ToString.Trim
-                                        If Not EmployeeExists(employeeNumber) Then
-                                            MessageBox.Show($"Employee number '{employeeNumber}' does not exist.{vbCrLf}Please create an Employee Profile for this TBR ID first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
-                                            Continue For
-                                        End If
+
                                         Dim tableName = sheetName.Replace("$", "")
 
                                         Dim checkDuplicateQuery = $"SELECT COUNT(*) FROM {tableName} WHERE " & String.Join(" AND ", validColumns.Select(Function(col) $"{col} = ?"))
-
-
-
                                         Using checkCommand As New OleDbCommand(checkDuplicateQuery, connection)
                                             ' Add parameters for all the columns in the query
                                             For Each col In validColumns
@@ -597,11 +590,8 @@ Public Class EmployeeListF
                                                 checkCommand.Parameters.AddWithValue($"@{col}".Trim, value)
                                             Next
 
-
-
                                             ' Execute the query to check for duplicates
                                             Dim duplicateCount As Integer = Convert.ToInt32(checkCommand.ExecuteScalar())
-
 
                                             ' If the row already exists, skip the insertion
                                             If duplicateCount > 0 Then
@@ -617,7 +607,6 @@ Public Class EmployeeListF
                                                 ' Treat all values as strings
                                                 command.Parameters.AddWithValue($"@{col}".Trim, value)
                                             Next
-
                                             command.ExecuteNonQuery()
                                         End Using
                                         successMessageShown = True
@@ -629,21 +618,21 @@ Public Class EmployeeListF
                             Finally
 
                             End Try
-                        Next
+        Next
 
-                        If successMessageShown Then
-                            MessageBox.Show("Data imported successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information)
-                        End If
-                        connection.Close()
-                    End Using
-                End If
-            End Using
+        If successMessageShown Then
+            MessageBox.Show("Data imported successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information)
+        End If
+        connection.Close()
+        End Using
+        End If
+        End Using
         Catch ex As Exception
-            MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         Finally
-            If connection.State = ConnectionState.Open Then
-                connection.Close()
-            End If
+        If connection.State = ConnectionState.Open Then
+            connection.Close()
+        End If
         End Try
     End Sub
     Private Function EmployeeExists(employeeNumber As String) As Boolean
@@ -678,7 +667,136 @@ Public Class EmployeeListF
             Return False
         End Try
     End Function
-#End Region 'Import Functions
+#End Region 'Single Import Profile
+#Region "Bulk Import"
+    Private Sub btnBulkImport_Click(sender As Object, e As EventArgs) Handles btnBulkImport.Click
+        Try
+            Using openFileDialog As New OpenFileDialog
+                openFileDialog.Filter = "Excel Files|*.xlsm;*.xlsx|All Files|*.*"
+                openFileDialog.Title = "Select Excel File"
+                openFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments)
+
+                If openFileDialog.ShowDialog = DialogResult.OK Then
+                    Dim excelFilePath = openFileDialog.FileName
+
+                    If Not File.Exists(excelFilePath) Then
+                        MessageBox.Show("The selected file does not exist.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                        Return
+                    End If
+
+                    Dim fileInfo As New FileInfo(excelFilePath)
+                    If IsFileLocked(fileInfo) OrElse Not HasReadWritePermissions(fileInfo) Then
+                        MessageBox.Show("The selected file is either opened by another user or you do not have permission to view and write its data.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                        Return
+                    End If
+
+                    Dim excelConnectionString = $"Provider=Microsoft.ACE.OLEDB.12.0;Data Source={excelFilePath};Extended Properties=Excel 12.0;"
+
+                    Using excelConnection As New OleDbConnection(excelConnectionString)
+                        excelConnection.Open()
+
+                        Dim sheetColumns As New Dictionary(Of String, String()) From {
+                    {"Employee_Profile$", {"Employee_Number", "Employee_Password", "Employee_First_Name", "Employee_Last_Name", "Employee_Role", "Last_Update", "Status", "Sharepoint_Link"}},
+                    {"Job_History$", {"Job_ID", "Employee_Number", "Role_and_Designation", "Client_Name", "Region", "Start_Date", "End_Date", "Reason_for_Change"}},
+                    {"Task_Profile$", {"Task_ID", "Employee_Number", "Task_Name", "Category", "POC", "Description"}},
+                    {"Software_Tools$", {"Software_ID", "Employee_Number", "Software_or_Tool", "Used_For"}},
+                    {"Skills_Interview$", {"Skills_ID", "Employee_Number", "Role_or_Designation", "Date_", "Interviewer", "Assessment_Notes"}},
+                    {"Performance_Evaluation$", {"Performance_ID", "Employee_Number", "Evaluation_Type", "Evaluation_Date", "Evaluator", "Evaluation_Notes", "Overall_Score", "Final_Remarks"}},
+                    {"Skills_Triage$", {"Triage_ID", "Employee_Number", "Concern_By", "Start_Date", "Date_Closed", "Details_of_Concern", "Deliberation_Score", "Deliberation_Notes"}},
+                    {"Training_History$", {"Training_ID", "Employee_Number", "Topic_or_Module_Title", "Facilitator", "Completion_Date", "Grade"}},
+                    {"Certifications_and_Licenses$", {"Certification_ID", "Employee_Number", "Certification_Name", "Chapter", "Provider", "License_Number", "Grant_Date", "Expiry_Date", "Status"}},
+                    {"Training_Plan$", {"Plan_ID", "Employee_Number", "Topic_or_Module_Name", "Facilitator", "Target_Date"}},
+                    {"Training_Programs$", {"Program_ID", "Employee_Number", "Program_Title", "Start_Date", "Completion_Date", "Deliberation_Score", "Deliberation_Notes"}},
+                    {"Webinars_Attended$", {"Webinar_ID", "Employee_Number", "Webinar_Title", "Date_", "CPD_Units"}},
+                    {"Client_Feedback$", {"Feedback_ID", "Employee_Number", "Account_Manager", "Client_POC", "Feedback_Date", "Feedback_Summary", "Staff_Performance_Rating"}},
+                    {"Self_Assessment$", {"Self_ID", "Employee_Number", "Account_Manager", "Feedback_Date", "Personal_Performance_Rating", "Client_Rating", "TBR_Rating"}},
+                    {"Competency_Certification$", {"Competency_ID", "Employee_Number", "Certification_Name", "Grant_Date", "Deliberation_Summary", "Overall_Grade"}}
+                }
+
+                        connection.Open()
+                        Dim successMessageShown = False
+
+                        For Each kvp In sheetColumns
+                            Dim sheetName = kvp.Key
+                            Dim columns = kvp.Value
+
+                            Dim selectCommand As New OleDbCommand($"SELECT * FROM [{sheetName}]", excelConnection)
+                            Dim excelDataAdapter As New OleDbDataAdapter(selectCommand)
+                            Dim excelDataTable As New DataTable
+                            excelDataAdapter.Fill(excelDataTable)
+
+                            ' Determine valid columns present in both the Excel sheet and the table
+                            Dim availableColumns = excelDataTable.Columns.Cast(Of DataColumn).Select(Function(c) c.ColumnName).ToArray
+                            Dim validColumns = columns.Where(Function(col) availableColumns.Contains(col)).ToArray
+
+                            If validColumns.Length = 0 Then Continue For
+
+                            Try
+                                For Each row As DataRow In excelDataTable.Rows
+                                    If validColumns.All(Function(col) Not IsDBNull(row(col)) AndAlso Not String.IsNullOrEmpty(row(col).ToString)) Then
+                                        Dim employeeNumber = row("Employee_Number").ToString.Trim
+
+                                        If Not EmployeeExists(employeeNumber) Then
+                                            MessageBox.Show($"Employee number '{employeeNumber}' does not exist.{vbCrLf}Please create an Employee Profile for this TBR ID first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                                            Continue For
+                                        End If
+
+                                        Dim tableName = sheetName.Replace("$", "")
+
+                                        Dim checkDuplicateQuery = $"SELECT COUNT(*) FROM {tableName} WHERE " & String.Join(" AND ", validColumns.Select(Function(col) $"{col} = ?"))
+                                        Using checkCommand As New OleDbCommand(checkDuplicateQuery, connection)
+                                            ' Add parameters for all the columns in the query
+                                            For Each col In validColumns
+                                                Dim value = row(col)
+                                                checkCommand.Parameters.AddWithValue($"@{col}".Trim, value)
+                                            Next
+
+                                            ' Execute the query to check for duplicates
+                                            Dim duplicateCount As Integer = Convert.ToInt32(checkCommand.ExecuteScalar())
+
+                                            ' If the row already exists, skip the insertion
+                                            If duplicateCount > 0 Then
+                                                Continue For
+                                            End If
+                                        End Using
+                                        ' Insert the new record
+                                        Dim commandText = $"INSERT INTO {tableName} ({String.Join(", ", validColumns).Trim}) VALUES ({String.Join(", ", validColumns.Select(Function(col) $"?")).Trim})"
+                                        Using command As New OleDbCommand(commandText, connection)
+                                            For Each col In validColumns
+                                                Dim value = row(col)
+
+                                                ' Treat all values as strings
+                                                command.Parameters.AddWithValue($"@{col}".Trim, value)
+                                            Next
+                                            command.ExecuteNonQuery()
+                                        End Using
+                                        successMessageShown = True
+                                    End If
+                                Next
+                            Catch ex As Exception
+                                MessageBox.Show($"An error occurred while importing data from sheet '{sheetName}': {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                                successMessageShown = False
+                            Finally
+
+                            End Try
+                        Next
+
+                        If successMessageShown Then
+                            MessageBox.Show("Data imported successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                        End If
+                        connection.Close()
+                    End Using
+                End If
+            End Using
+        Catch ex As Exception
+            MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        Finally
+            If connection.State = ConnectionState.Open Then
+                connection.Close()
+            End If
+        End Try
+    End Sub
+#End Region 'Bulk Import Updates
 #Region "User Menu"
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles picboxMenu.Click
         If grpEmployeeProfile.Visible = False Then

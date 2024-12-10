@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj": {}
+    "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Documents\\Vince Andrei P. Cabral\\SPAD APP RESOURCES AND SOURCE CODE\\skills-profiling\\Skills Profiling.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj": {
+    "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Documents\\Vince Andrei P. Cabral\\SPAD APP RESOURCES AND SOURCE CODE\\skills-profiling\\Skills Profiling.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj",
+        "projectUniqueName": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Documents\\Vince Andrei P. Cabral\\SPAD APP RESOURCES AND SOURCE CODE\\skills-profiling\\Skills Profiling.vbproj",
         "projectName": "Skills Profiling",
-        "projectPath": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\Skills Profiling.vbproj",
+        "projectPath": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Documents\\Vince Andrei P. Cabral\\SPAD APP RESOURCES AND SOURCE CODE\\skills-profiling\\Skills Profiling.vbproj",
         "packagesPath": "C:\\Users\\VinceAndreiCabral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Desktop\\skills-profiling\\obj\\",
+        "outputPath": "C:\\Users\\VinceAndreiCabral\\OneDrive - The Back Room Offshoring Inc\\Documents\\Vince Andrei P. Cabral\\SPAD APP RESOURCES AND SOURCE CODE\\skills-profiling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VinceAndreiCabral\\AppData\\Roaming\\NuGet\\NuGet.Config",
