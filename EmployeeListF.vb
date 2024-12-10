@@ -577,6 +577,7 @@ Public Class EmployeeListF
 
                             Try
                                 For Each row As DataRow In excelDataTable.Rows
+
                                     If validColumns.All(Function(col) Not IsDBNull(row(col)) AndAlso Not String.IsNullOrEmpty(row(col).ToString)) Then
                                         Dim employeeNumber = row("Employee_Number").ToString.Trim
 
@@ -618,21 +619,21 @@ Public Class EmployeeListF
                             Finally
 
                             End Try
-        Next
+                        Next
 
-        If successMessageShown Then
-            MessageBox.Show("Data imported successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information)
-        End If
-        connection.Close()
-        End Using
-        End If
-        End Using
+                        If successMessageShown Then
+                            MessageBox.Show("Data imported successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                        End If
+                        connection.Close()
+                    End Using
+                End If
+            End Using
         Catch ex As Exception
-        MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
         Finally
-        If connection.State = ConnectionState.Open Then
-            connection.Close()
-        End If
+            If connection.State = ConnectionState.Open Then
+                connection.Close()
+            End If
         End Try
     End Sub
     Private Function EmployeeExists(employeeNumber As String) As Boolean
