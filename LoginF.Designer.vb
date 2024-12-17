@@ -58,27 +58,30 @@ Partial Class LoginF
         txtEmployeeID.BorderStyle = BorderStyle.FixedSingle
         txtEmployeeID.Font = New System.Drawing.Font("Gotham", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         txtEmployeeID.ForeColor = Color.DarkGray
-        txtEmployeeID.Location = New Point(119, 147)
+        txtEmployeeID.Location = New Point(116, 147)
         txtEmployeeID.Name = "txtEmployeeID"
-        txtEmployeeID.Size = New Size(201, 24)
+        txtEmployeeID.Size = New Size(208, 24)
         txtEmployeeID.TabIndex = 0
         txtEmployeeID.Text = "Employee ID"
         ' 
         ' lklblForgotPassword
         ' 
+        lklblForgotPassword.ActiveLinkColor = Color.Blue
         lklblForgotPassword.Anchor = AnchorStyles.None
         lklblForgotPassword.AutoSize = True
         lklblForgotPassword.BackColor = Color.Transparent
-        lklblForgotPassword.Font = New System.Drawing.Font("Gotham", 7.79999971F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        lklblForgotPassword.Font = New System.Drawing.Font("Gotham Black", 8.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        lklblForgotPassword.ForeColor = Color.Aqua
         lklblForgotPassword.LinkBehavior = LinkBehavior.NeverUnderline
-        lklblForgotPassword.LinkColor = Color.Black
-        lklblForgotPassword.Location = New Point(165, 290)
+        lklblForgotPassword.LinkColor = Color.RoyalBlue
+        lklblForgotPassword.Location = New Point(153, 290)
         lklblForgotPassword.Name = "lklblForgotPassword"
-        lklblForgotPassword.Size = New Size(100, 12)
+        lklblForgotPassword.Size = New Size(113, 12)
         lklblForgotPassword.TabIndex = 4
         lklblForgotPassword.TabStop = True
         lklblForgotPassword.Text = "Forgot Password?"
-        lklblForgotPassword.VisitedLinkColor = Color.Black
+        lklblForgotPassword.TextAlign = ContentAlignment.MiddleCenter
+        lklblForgotPassword.VisitedLinkColor = Color.Aqua
         ' 
         ' btnLogin
         ' 
@@ -247,7 +250,7 @@ Partial Class LoginF
         lblPasswordTip.Cursor = Cursors.Help
         lblPasswordTip.Font = New System.Drawing.Font("Gotham", 7.79999971F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         lblPasswordTip.ForeColor = SystemColors.ActiveCaptionText
-        lblPasswordTip.Location = New Point(183, 229)
+        lblPasswordTip.Location = New Point(183, 227)
         lblPasswordTip.Margin = New Padding(4)
         lblPasswordTip.Name = "lblPasswordTip"
         lblPasswordTip.Size = New Size(55, 12)
@@ -260,9 +263,9 @@ Partial Class LoginF
         PictureBox2.Anchor = AnchorStyles.None
         PictureBox2.BackgroundImage = CType(resources.GetObject("PictureBox2.BackgroundImage"), Drawing.Image)
         PictureBox2.BackgroundImageLayout = ImageLayout.Zoom
-        PictureBox2.Location = New Point(67, 134)
+        PictureBox2.Location = New Point(83, 142)
         PictureBox2.Name = "PictureBox2"
-        PictureBox2.Size = New Size(45, 46)
+        PictureBox2.Size = New Size(30, 30)
         PictureBox2.TabIndex = 16
         PictureBox2.TabStop = False
         ' 
@@ -271,9 +274,9 @@ Partial Class LoginF
         PictureBox3.Anchor = AnchorStyles.None
         PictureBox3.BackgroundImage = CType(resources.GetObject("PictureBox3.BackgroundImage"), Drawing.Image)
         PictureBox3.BackgroundImageLayout = ImageLayout.Zoom
-        PictureBox3.Location = New Point(67, 186)
+        PictureBox3.Location = New Point(83, 192)
         PictureBox3.Name = "PictureBox3"
-        PictureBox3.Size = New Size(45, 46)
+        PictureBox3.Size = New Size(30, 30)
         PictureBox3.TabIndex = 15
         PictureBox3.TabStop = False
         ' 

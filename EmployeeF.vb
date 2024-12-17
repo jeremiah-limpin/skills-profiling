@@ -3283,7 +3283,7 @@ Public Class EmployeeF
             MessageBox.Show("Please wait while the profile is exporting. Thank you", "Profile Exporting", MessageBoxButtons.OK, MessageBoxIcon.Information)
 
             'Takes Template format from Backroom_NAS\SkillsProfiling folder
-            ExportToExcelOffFormat(connection, "\\Backroom_NAS\SkillsProfiling\Skills Profiling - Export Template.xlsx", saveFileDialog.FileName, employeeNumber)
+            ExportToExcelOffFormat(connection, "\\Backroom_NAS\SkillsProfiling\Resources\Skills Profiling - Export Template.xlsx", saveFileDialog.FileName, employeeNumber)
 
             MessageBox.Show("Thank you for the wait. The profile has been exported!", "Profile Exported", MessageBoxButtons.OK, MessageBoxIcon.Information)
 

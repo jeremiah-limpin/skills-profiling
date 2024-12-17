@@ -305,6 +305,7 @@ Public Class LoginF
         VerifyIDForm.Show()
         Hide()
     End Sub
+
 #End Region
 #End Region 'Username and Password Textboxes Events
 #Region "LoginF Load and Close"
@@ -321,6 +322,15 @@ Public Class LoginF
         Me.Show()
         lblEPName.Select()
     End Sub
+
+    Private Sub lklblForgotPassword_MouseHover(sender As Object, e As EventArgs) Handles lklblForgotPassword.MouseHover
+        lklblForgotPassword.LinkColor = Color.Blue
+    End Sub
+
+    Private Sub lklblForgotPassword_MouseLeave(sender As Object, e As EventArgs) Handles lklblForgotPassword.MouseLeave
+        lklblForgotPassword.LinkColor = Color.RoyalBlue
+    End Sub
+
 
 #End Region
 End Class
